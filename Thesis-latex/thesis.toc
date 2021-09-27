@@ -1,0 +1,154 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Summary}{1}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Thesis Contribution}{3}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Literature Review}{6}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Indoor Localization}{6}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Techniques for Indoor Localization}{6}{subsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Received Signal Strength Indicator (RSSI)}{7}{section*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Channel State Information (CSI)}{8}{section*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Fingerprint Analysis}{9}{section*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Angle of Arrival (AoA)}{10}{section*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Time of Flight (ToF)}{11}{section*.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Time Difference of Arrival (TDoA)}{12}{section*.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Technologies for Indoor localization}{13}{subsection.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{WiFi}{13}{section*.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Bluetooth}{14}{section*.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{ZigBee}{15}{section*.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Radio Frequency Identification Device (RFID)}{15}{section*.18}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Visible Light}{16}{section*.19}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Acoustic Signal}{17}{section*.20}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}Applications of Indoor Localization}{17}{subsection.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Factories}{17}{section*.21}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Airports and Railway Stations}{19}{section*.22}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Market Research}{19}{section*.23}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Supermarkets and Shops}{20}{section*.24}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Hospitals and Nursing Homes}{20}{section*.25}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}DataSet}{21}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}UjiIndoor Loc Dataset}{21}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Description of elements stored}{21}{subsection.3.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{1) RSSI Levels}{21}{section*.26}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{2) Real-world coordinates}{22}{section*.27}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{3) Space identifiers}{22}{section*.28}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{4) User Identifier}{24}{section*.32}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{5) Phone Identifier}{24}{section*.33}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{6) Timestamp}{24}{section*.35}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Other Datasets}{25}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}BLE Fingerprinting Dataset}{25}{subsection.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Attribute Information}{26}{section*.37}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Lab Dataset - Kaggle}{27}{subsection.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Attribute Information}{27}{section*.38}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Methodology}{28}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Exploratory Data Analysis}{28}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Modelling as a Classification Problem}{34}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Feature Engineering}{35}{subsection.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Data Preprocessing}{35}{subsection.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}Feature Selection and Sampling}{36}{subsection.4.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.4}Classification Model Selection}{37}{subsection.4.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.5}Classification Model Tuning}{39}{subsection.4.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.6}Metrics for Evaluation of Results}{40}{subsection.4.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.7}Evaluation of PCA on full data}{41}{subsection.4.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Modelling as a Regression Problem}{43}{section.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Feature Engineering}{43}{subsection.4.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{RSSI Signal Strength to Distance}{43}{section*.47}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Feature Selection and PCA}{44}{subsection.4.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Regression Model Selection}{45}{subsection.4.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.4}Regression Model Tuning}{47}{subsection.4.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Modelling as a Multi Cascaded Classification and Regression Problem}{48}{section.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Three Stage Cascaded Machine Learning Model}{48}{subsection.4.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Classifier For Building Prediction}{48}{section*.51}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Classifier For Floor Prediction}{48}{section*.52}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Regressor For final Prediction}{48}{section*.53}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Metric for Evaluation of Results}{49}{subsection.4.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Trilateration Methodology for localization of Access Points}{50}{section.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.1}Geometrical Interpretation}{50}{subsection.4.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.2}Mathematical Interpretation}{52}{subsection.4.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.3}Optimzation Algorithm}{52}{subsection.4.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.4}Implementation}{54}{subsection.4.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Results}{55}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Modelling as a Classification Problem}{55}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Modelling as a Regression Problem}{63}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Modelling as a Multi Cascaded Classification and Regression Problem}{64}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Trilateration Methodology for localization of Access Points}{67}{section.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Conclusions}{69}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Final Remarks}{69}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Future Work}{70}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{72}{appendix*.75}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acknowledgements}{84}{appendix*.76}%

@@ -1,0 +1,3839 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{adame2014ieee}{article}{}
+      \name{author}{5}{}{%
+        {{hash=25486d63e8db66d82dc8d75c51ccc342}{%
+           family={Adame},
+           familyi={A\bibinitperiod},
+           given={Toni},
+           giveni={T\bibinitperiod}}}%
+        {{hash=972f4debd619ad6a3a0f9e722b044cff}{%
+           family={Bel},
+           familyi={B\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+        {{hash=15bb541b8ae41b1875cae8d42601b8f1}{%
+           family={Bellalta},
+           familyi={B\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod}}}%
+        {{hash=06206ad5a38cb9bd3dccfd7bc825158f}{%
+           family={Barcelo},
+           familyi={B\bibinitperiod},
+           given={Jaume},
+           giveni={J\bibinitperiod}}}%
+        {{hash=87f91647259358d77060707834b984b4}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={Miquel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7d9c23cc35f13a73be299159a0cbb4c4}
+      \strng{fullhash}{7d9c23cc35f13a73be299159a0cbb4c4}
+      \strng{bibnamehash}{7d9c23cc35f13a73be299159a0cbb4c4}
+      \strng{authorbibnamehash}{7d9c23cc35f13a73be299159a0cbb4c4}
+      \strng{authornamehash}{7d9c23cc35f13a73be299159a0cbb4c4}
+      \strng{authorfullhash}{7d9c23cc35f13a73be299159a0cbb4c4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Wireless Communications}
+      \field{number}{6}
+      \field{title}{IEEE 802.11 AH: the WiFi approach for M2M communications}
+      \field{volume}{21}
+      \field{year}{2014}
+      \field{pages}{144\bibrangedash 152}
+      \range{pages}{9}
+    \endentry
+    \entry{alexopoulos2010introduction}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bd1b7f4c1128350a181d91c7766767d1}{%
+           family={Alexopoulos},
+           familyi={A\bibinitperiod},
+           given={Evangelos\bibnamedelima C},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hippokratio General Hospital of Thessaloniki}%
+      }
+      \strng{namehash}{bd1b7f4c1128350a181d91c7766767d1}
+      \strng{fullhash}{bd1b7f4c1128350a181d91c7766767d1}
+      \strng{bibnamehash}{bd1b7f4c1128350a181d91c7766767d1}
+      \strng{authorbibnamehash}{bd1b7f4c1128350a181d91c7766767d1}
+      \strng{authornamehash}{bd1b7f4c1128350a181d91c7766767d1}
+      \strng{authorfullhash}{bd1b7f4c1128350a181d91c7766767d1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hippokratia}
+      \field{number}{Suppl 1}
+      \field{title}{Introduction to multivariate regression analysis}
+      \field{volume}{14}
+      \field{year}{2010}
+      \field{pages}{23}
+      \range{pages}{1}
+    \endentry
+    \entry{alzamzami2020light}{article}{}
+      \name{author}{3}{}{%
+        {{hash=148dc630d64b9386d19f40e574f2c07b}{%
+           family={Alzamzami},
+           familyi={A\bibinitperiod},
+           given={Fatimah},
+           giveni={F\bibinitperiod}}}%
+        {{hash=10e9c9db30a767c1b2539423786533ab}{%
+           family={Hoda},
+           familyi={H\bibinitperiod},
+           given={Mohamad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=62d97bc93eec46205dd45afb8e2a6140}{%
+           family={El\bibnamedelima Saddik},
+           familyi={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Abdulmotaleb},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{be5c459a073e163d5cdc0f416865ef9b}
+      \strng{fullhash}{be5c459a073e163d5cdc0f416865ef9b}
+      \strng{bibnamehash}{be5c459a073e163d5cdc0f416865ef9b}
+      \strng{authorbibnamehash}{be5c459a073e163d5cdc0f416865ef9b}
+      \strng{authornamehash}{be5c459a073e163d5cdc0f416865ef9b}
+      \strng{authorfullhash}{be5c459a073e163d5cdc0f416865ef9b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Light Gradient Boosting Machine for General Sentiment Classification on Short Texts: A Comparative Evaluation}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{101840\bibrangedash 101858}
+      \range{pages}{19}
+    \endentry
+    \entry{android-wifi-getscan-method}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{title}{{Android WiFi GetScan Method}}
+      \verb{urlraw}
+      \verb http://developer.android.com/reference/android/net/wifi/ScanResult.html
+      \endverb
+      \verb{url}
+      \verb http://developer.android.com/reference/android/net/wifi/ScanResult.html
+      \endverb
+      \warn{\item Entry 'android-wifi-getscan-method' (biblio.bib): Invalid format '\today' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{android-wifi-manager}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{title}{{Android WiFi Manager}}
+      \verb{urlraw}
+      \verb http://developer.android.com/reference/android/net/wifi/WifiManager.html
+      \endverb
+      \verb{url}
+      \verb http://developer.android.com/reference/android/net/wifi/WifiManager.html
+      \endverb
+      \warn{\item Entry 'android-wifi-manager' (biblio.bib): Invalid format '\today' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{armstrong2013visible}{article}{}
+      \name{author}{3}{}{%
+        {{hash=84958c6eaaf5d13c13826e859441cb09}{%
+           family={Armstrong},
+           familyi={A\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f3e8313fe3d24bdac5946300a50a749b}{%
+           family={Sekercioglu},
+           familyi={S\bibinitperiod},
+           given={Y\bibnamedelima Ahmet},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2d59240c4d78b5c7ece0d65524c176c0}{%
+           family={Neild},
+           familyi={N\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b95fd1ef48e0b38cc2e28dcdb2a34414}
+      \strng{fullhash}{b95fd1ef48e0b38cc2e28dcdb2a34414}
+      \strng{bibnamehash}{b95fd1ef48e0b38cc2e28dcdb2a34414}
+      \strng{authorbibnamehash}{b95fd1ef48e0b38cc2e28dcdb2a34414}
+      \strng{authornamehash}{b95fd1ef48e0b38cc2e28dcdb2a34414}
+      \strng{authorfullhash}{b95fd1ef48e0b38cc2e28dcdb2a34414}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Magazine}
+      \field{number}{12}
+      \field{title}{Visible light positioning: a roadmap for international standardization}
+      \field{volume}{51}
+      \field{year}{2013}
+      \field{pages}{68\bibrangedash 73}
+      \range{pages}{6}
+    \endentry
+    \entry{asimakopoulou2011buildings}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=e99aadd74d48c3134e0ba1c2716da36a}{%
+           family={Asimakopoulou},
+           familyi={A\bibinitperiod},
+           given={Eleana},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c11b06912e8a091efbd1fca6683100c6}{%
+           family={Bessis},
+           familyi={B\bibinitperiod},
+           given={Nik},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b564ade5bbad8f5019113d14e0444dfa}
+      \strng{fullhash}{b564ade5bbad8f5019113d14e0444dfa}
+      \strng{bibnamehash}{b564ade5bbad8f5019113d14e0444dfa}
+      \strng{authorbibnamehash}{b564ade5bbad8f5019113d14e0444dfa}
+      \strng{authornamehash}{b564ade5bbad8f5019113d14e0444dfa}
+      \strng{authorfullhash}{b564ade5bbad8f5019113d14e0444dfa}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2011 Fifth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing}
+      \field{title}{Buildings and crowds: Forming smart cities for more effective disaster management}
+      \field{year}{2011}
+      \field{pages}{229\bibrangedash 234}
+      \range{pages}{6}
+    \endentry
+    \entry{atzori2010internet}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4016748de40a6eddc1c105090ee1445b}{%
+           family={Atzori},
+           familyi={A\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=edfc38fc48a36e8383fc72e960e865e1}{%
+           family={Iera},
+           familyi={I\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=25c24c4e10923f308d51605cf317c067}{%
+           family={Morabito},
+           familyi={M\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d555c18a15d1f74d97fe275b8a534091}
+      \strng{fullhash}{d555c18a15d1f74d97fe275b8a534091}
+      \strng{bibnamehash}{d555c18a15d1f74d97fe275b8a534091}
+      \strng{authorbibnamehash}{d555c18a15d1f74d97fe275b8a534091}
+      \strng{authornamehash}{d555c18a15d1f74d97fe275b8a534091}
+      \strng{authorfullhash}{d555c18a15d1f74d97fe275b8a534091}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{" The internet of things: A survey," Computer Networks, vol. 54, no. 15, pp. 2787-2805}
+      \field{year}{2010}
+    \endentry
+    \entry{baronti2007wireless}{article}{}
+      \name{author}{6}{}{%
+        {{hash=80fdf7d78d2b8b74b2e1a864d4e67b95}{%
+           family={Baronti},
+           familyi={B\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1d7c735ee376e6771c1d667028832186}{%
+           family={Pillai},
+           familyi={P\bibinitperiod},
+           given={Prashant},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d25d84b727c907d351913fe74af9a0fe}{%
+           family={Chook},
+           familyi={C\bibinitperiod},
+           given={Vince\bibnamedelima WC},
+           giveni={V\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=4148e936b29880133445f605ad89e531}{%
+           family={Chessa},
+           familyi={C\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8958d5ce9075efecc06bf019892e19f8}{%
+           family={Gotta},
+           familyi={G\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=85a8345c181d4b32778715be3afc00ad}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Y\bibnamedelima Fun},
+           giveni={Y\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3fc4a0afbb264ad0dda309fa1fb4835e}
+      \strng{fullhash}{3fc4a0afbb264ad0dda309fa1fb4835e}
+      \strng{bibnamehash}{3fc4a0afbb264ad0dda309fa1fb4835e}
+      \strng{authorbibnamehash}{3fc4a0afbb264ad0dda309fa1fb4835e}
+      \strng{authornamehash}{3fc4a0afbb264ad0dda309fa1fb4835e}
+      \strng{authorfullhash}{3fc4a0afbb264ad0dda309fa1fb4835e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer communications}
+      \field{number}{7}
+      \field{title}{Wireless sensor networks: A survey on the state of the art and the 802.15. 4 and ZigBee standards}
+      \field{volume}{30}
+      \field{year}{2007}
+      \field{pages}{1655\bibrangedash 1695}
+      \range{pages}{41}
+    \endentry
+    \entry{belmannoubi2019stacked}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=acd16fb629e9b56276e39b5d78f9f395}{%
+           family={BelMannoubi},
+           familyi={B\bibinitperiod},
+           given={Souad},
+           giveni={S\bibinitperiod}}}%
+        {{hash=58618b85362e8a516e219a815fed8438}{%
+           family={Touati},
+           familyi={T\bibinitperiod},
+           given={Haifa},
+           giveni={H\bibinitperiod}}}%
+        {{hash=036eedb369b7a61b8a26b9476c3f0f07}{%
+           family={Snoussi},
+           familyi={S\bibinitperiod},
+           given={Hichem},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ad2c821b6e9a72a06a2016501119494c}
+      \strng{fullhash}{ad2c821b6e9a72a06a2016501119494c}
+      \strng{bibnamehash}{ad2c821b6e9a72a06a2016501119494c}
+      \strng{authorbibnamehash}{ad2c821b6e9a72a06a2016501119494c}
+      \strng{authornamehash}{ad2c821b6e9a72a06a2016501119494c}
+      \strng{authorfullhash}{ad2c821b6e9a72a06a2016501119494c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 15th International Wireless Communications \& Mobile Computing Conference (IWCMC)}
+      \field{title}{Stacked auto-encoder for scalable indoor localization in wireless sensor networks}
+      \field{year}{2019}
+      \field{pages}{1245\bibrangedash 1250}
+      \range{pages}{6}
+    \endentry
+    \entry{borrion2012countering}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=6862c14cfd404d064d79907c0ac8b868}{%
+           family={Borrion},
+           familyi={B\bibinitperiod},
+           given={Hervé},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d7bc943e3721c53168fe5bed345a5cf9}{%
+           family={Mitchener-Nissen},
+           familyi={M\bibinithyphendelim N\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=73407617637f1d647ba9ad81014b576c}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Jonathon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=06161ab91ea698ba441be17f86767b7f}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Ka-Man},
+           giveni={K\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{150f9077af0ca011624ec072fe2065a0}
+      \strng{fullhash}{150f9077af0ca011624ec072fe2065a0}
+      \strng{bibnamehash}{150f9077af0ca011624ec072fe2065a0}
+      \strng{authorbibnamehash}{150f9077af0ca011624ec072fe2065a0}
+      \strng{authornamehash}{150f9077af0ca011624ec072fe2065a0}
+      \strng{authorfullhash}{150f9077af0ca011624ec072fe2065a0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 European Intelligence and Security Informatics Conference}
+      \field{title}{Countering Bioterrorism: Why smart buildings should have a code of ethics}
+      \field{year}{2012}
+      \field{pages}{68\bibrangedash 75}
+      \range{pages}{8}
+    \endentry
+    \entry{breiman2001random}{article}{}
+      \name{author}{1}{}{%
+        {{hash=132b7100417675d55d5d4d8b244f7a34}{%
+           family={Breiman},
+           familyi={B\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{fullhash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{bibnamehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{authorbibnamehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{authornamehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{authorfullhash}{132b7100417675d55d5d4d8b244f7a34}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine learning}
+      \field{number}{1}
+      \field{title}{Random forests}
+      \field{volume}{45}
+      \field{year}{2001}
+      \field{pages}{5\bibrangedash 32}
+      \range{pages}{28}
+    \endentry
+    \entry{browne2000cross}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3e08ebdfc7ca2904ab3b91debce95795}{%
+           family={Browne},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima W},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3e08ebdfc7ca2904ab3b91debce95795}
+      \strng{fullhash}{3e08ebdfc7ca2904ab3b91debce95795}
+      \strng{bibnamehash}{3e08ebdfc7ca2904ab3b91debce95795}
+      \strng{authorbibnamehash}{3e08ebdfc7ca2904ab3b91debce95795}
+      \strng{authornamehash}{3e08ebdfc7ca2904ab3b91debce95795}
+      \strng{authorfullhash}{3e08ebdfc7ca2904ab3b91debce95795}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of mathematical psychology}
+      \field{number}{1}
+      \field{title}{Cross-validation methods}
+      \field{volume}{44}
+      \field{year}{2000}
+      \field{pages}{108\bibrangedash 132}
+      \range{pages}{25}
+    \endentry
+    \entry{sklearn-api}{inproceedings}{}
+      \name{author}{15}{}{%
+        {{hash=5325438f4daa7970e2720791d9ac690f}{%
+           family={Buitinck},
+           familyi={B\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=832b9967410c05c324eec6e9b19da71e}{%
+           family={Louppe},
+           familyi={L\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d3b6c8582cea4e8b6576137b6a72cadc}{%
+           family={Blondel},
+           familyi={B\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bab4e5caee2d67831e464ce575022b37}{%
+           family={Pedregosa},
+           familyi={P\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8a6c9c0890b96766b8cc7c152d7b86a8}{%
+           family={Mueller},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=721be0317527f44db425f7a97dcab15e}{%
+           family={Grisel},
+           familyi={G\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=7fb1184b4b06404ea26547130860771e}{%
+           family={Niculae},
+           familyi={N\bibinitperiod},
+           given={Vlad},
+           giveni={V\bibinitperiod}}}%
+        {{hash=86e647e5c801f3ce733927f75f029463}{%
+           family={Prettenhofer},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=12ebe424e1c87de156c57e8fa7683f46}{%
+           family={Gramfort},
+           familyi={G\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dd23caf60ef6fe47d09bad8ff0dc8695}{%
+           family={Grobler},
+           familyi={G\bibinitperiod},
+           given={Jaques},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b77398bb05b09a70738309551dc505a7}{%
+           family={Layton},
+           familyi={L\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0fd9a0e34f1b2adda41357c948d14986}{%
+           family={VanderPlas},
+           familyi={V\bibinitperiod},
+           given={Jake},
+           giveni={J\bibinitperiod}}}%
+        {{hash=557b78cbca511465f0b78ac10c0a9ce3}{%
+           family={Joly},
+           familyi={J\bibinitperiod},
+           given={Arnaud},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3309917dfb1d5f26d52eb9264a3296a0}{%
+           family={Holt},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cfa3239dded54488f9a82a5718d5b927}{%
+           family={Varoquaux},
+           familyi={V\bibinitperiod},
+           given={Gaël},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e16647faba7aef4d40aca3c94f5333ad}
+      \strng{fullhash}{e16647faba7aef4d40aca3c94f5333ad}
+      \strng{bibnamehash}{e16647faba7aef4d40aca3c94f5333ad}
+      \strng{authorbibnamehash}{e16647faba7aef4d40aca3c94f5333ad}
+      \strng{authornamehash}{e16647faba7aef4d40aca3c94f5333ad}
+      \strng{authorfullhash}{e16647faba7aef4d40aca3c94f5333ad}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ECML PKDD Workshop: Languages for Data Mining and Machine Learning}
+      \field{title}{{API} design for machine learning software: experiences from the scikit-learn project}
+      \field{year}{2013}
+      \field{pages}{108\bibrangedash 122}
+      \range{pages}{15}
+    \endentry
+    \entry{campbell2011learning}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8844d8529a91231635f23ed2bd5f1d72}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=29226eee0fda9df2cd64fe0eeb7049ab}{%
+           family={Ying},
+           familyi={Y\bibinitperiod},
+           given={Yiming},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Morgan \& Claypool Publishers}%
+      }
+      \strng{namehash}{43b61190d0d938fa7ce2691f9e853496}
+      \strng{fullhash}{43b61190d0d938fa7ce2691f9e853496}
+      \strng{bibnamehash}{43b61190d0d938fa7ce2691f9e853496}
+      \strng{authorbibnamehash}{43b61190d0d938fa7ce2691f9e853496}
+      \strng{authornamehash}{43b61190d0d938fa7ce2691f9e853496}
+      \strng{authorfullhash}{43b61190d0d938fa7ce2691f9e853496}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Synthesis lectures on artificial intelligence and machine learning}
+      \field{number}{1}
+      \field{title}{Learning with support vector machines}
+      \field{volume}{5}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 95}
+      \range{pages}{95}
+    \endentry
+    \entry{castro2001probabilistic}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=40b283e6fd979b6dd5f1b44c51d3c22a}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cbcb5ec6b7717292af11479cd201a20f}{%
+           family={Chiu},
+           familyi={C\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=94aa34e320b5430efa723a8862438ebc}{%
+           family={Kremenek},
+           familyi={K\bibinitperiod},
+           given={Ted},
+           giveni={T\bibinitperiod}}}%
+        {{hash=94f5770cf355c5ff56de3fafb8762f4a}{%
+           family={Muntz},
+           familyi={M\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{10c52c5ed9156bf09ba908290ef08952}
+      \strng{fullhash}{10c52c5ed9156bf09ba908290ef08952}
+      \strng{bibnamehash}{10c52c5ed9156bf09ba908290ef08952}
+      \strng{authorbibnamehash}{10c52c5ed9156bf09ba908290ef08952}
+      \strng{authornamehash}{10c52c5ed9156bf09ba908290ef08952}
+      \strng{authorfullhash}{10c52c5ed9156bf09ba908290ef08952}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International conference on ubiquitous computing}
+      \field{title}{A probabilistic room location service for wireless networked environments}
+      \field{year}{2001}
+      \field{pages}{18\bibrangedash 34}
+      \range{pages}{17}
+    \endentry
+    \entry{centenaro2016long}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c3c665a2228e6e6a3a393806d00ef6e5}{%
+           family={Centenaro},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dce2699b2792a299aef1517f27d9897b}{%
+           family={Vangelista},
+           familyi={V\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e1397a614366f3880341196fe86acfe0}{%
+           family={Zanella},
+           familyi={Z\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b76c4eca481ecdbf633c2bc5bf0e3a37}{%
+           family={Zorzi},
+           familyi={Z\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c51d94f44d7ed38034577d73cb875e95}
+      \strng{fullhash}{c51d94f44d7ed38034577d73cb875e95}
+      \strng{bibnamehash}{c51d94f44d7ed38034577d73cb875e95}
+      \strng{authorbibnamehash}{c51d94f44d7ed38034577d73cb875e95}
+      \strng{authornamehash}{c51d94f44d7ed38034577d73cb875e95}
+      \strng{authorfullhash}{c51d94f44d7ed38034577d73cb875e95}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Wireless Communications}
+      \field{number}{5}
+      \field{title}{Long-range communications in unlicensed bands: The rising stars in the IoT and smart city scenarios}
+      \field{volume}{23}
+      \field{year}{2016}
+      \field{pages}{60\bibrangedash 67}
+      \range{pages}{8}
+    \endentry
+    \entry{chen2009dynamic}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=efa58162ec793e1271cde97571d28489}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Wei-Hong},
+           giveni={W\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=51163cd6c525cdc1b0b5cfda9acc74e2}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Herbert\bibnamedelima H},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=b51336a80ca98a6556112b59b3d12332}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Tzong-Huei},
+           giveni={T\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=d622a7900c2d06da901dd086268cd0d3}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Po-Chou},
+           giveni={P\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=45a4fa8431c98327e6df99b502e6592c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={LK},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a799379450a9c34b6142d300169fa85b}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={SJ},
+           giveni={S\bibinitperiod}}}%
+        {{hash=558ffd867fe3a1925e16df7d74dc72aa}{%
+           family={Yen},
+           familyi={Y\bibinitperiod},
+           given={DHJ},
+           giveni={D\bibinitperiod}}}%
+        {{hash=52eae8a1acedd651c761aaa1a61aa0c8}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Hanna\bibnamedelima S},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=08850faee51ab33a691241677b9af1f8}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Woei\bibnamedelima C},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{33a207faec2347c1f3e12a4d0637e582}
+      \strng{fullhash}{33a207faec2347c1f3e12a4d0637e582}
+      \strng{bibnamehash}{33a207faec2347c1f3e12a4d0637e582}
+      \strng{authorbibnamehash}{33a207faec2347c1f3e12a4d0637e582}
+      \strng{authornamehash}{33a207faec2347c1f3e12a4d0637e582}
+      \strng{authorfullhash}{33a207faec2347c1f3e12a4d0637e582}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2009 2nd International Conference on Biomedical Engineering and Informatics}
+      \field{title}{Dynamic indoor localization based on active rfid for healthcare applications: a shape constraint approach}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+    \endentry
+    \entry{chintalapudi2010indoor}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=010f1a508def42ead2ed448d36bd5185}{%
+           family={Chintalapudi},
+           familyi={C\bibinitperiod},
+           given={Krishna},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f0ed7de526800c2211ae9e58d5577085}{%
+           family={Padmanabha\bibnamedelima Iyer},
+           familyi={P\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Anand},
+           giveni={A\bibinitperiod}}}%
+        {{hash=58e025cc367099a218bdb055c96bb927}{%
+           family={Padmanabhan},
+           familyi={P\bibinitperiod},
+           given={Venkata\bibnamedelima N},
+           giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{419bca58295603713796837b1f6fd557}
+      \strng{fullhash}{419bca58295603713796837b1f6fd557}
+      \strng{bibnamehash}{419bca58295603713796837b1f6fd557}
+      \strng{authorbibnamehash}{419bca58295603713796837b1f6fd557}
+      \strng{authornamehash}{419bca58295603713796837b1f6fd557}
+      \strng{authorfullhash}{419bca58295603713796837b1f6fd557}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the sixteenth annual international conference on Mobile computing and networking}
+      \field{title}{Indoor localization without the pain}
+      \field{year}{2010}
+      \field{pages}{173\bibrangedash 184}
+      \range{pages}{12}
+    \endentry
+    \entry{ciurana2007wlan}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=45e9c56d4069d90dee7e5f5e9a110681}{%
+           family={Ciurana},
+           familyi={C\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=faa450b47a009b223fb83a92ceb32ca8}{%
+           family={Cugno},
+           familyi={C\bibinitperiod},
+           given={Sebastiano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=05fe88e506b1c19152b5f97aea303d33}{%
+           family={Barcelo-Arroyo},
+           familyi={B\bibinithyphendelim A\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f2e5a53386311c8fccf9442713a7897a}
+      \strng{fullhash}{f2e5a53386311c8fccf9442713a7897a}
+      \strng{bibnamehash}{f2e5a53386311c8fccf9442713a7897a}
+      \strng{authorbibnamehash}{f2e5a53386311c8fccf9442713a7897a}
+      \strng{authornamehash}{f2e5a53386311c8fccf9442713a7897a}
+      \strng{authorfullhash}{f2e5a53386311c8fccf9442713a7897a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2007 4th Workshop on Positioning, Navigation and Communication}
+      \field{title}{WLAN indoor positioning based on TOA with two reference points}
+      \field{year}{2007}
+      \field{pages}{23\bibrangedash 28}
+      \range{pages}{6}
+    \endentry
+    \entry{cuesta2018case}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f57edc6c386f55654b536a5d1b940aca}{%
+           family={Cuesta},
+           familyi={C\bibinitperiod},
+           given={Ubaldo},
+           giveni={U\bibinitperiod}}}%
+        {{hash=fb9979d8b7b711e9ee8fc8e6e5d8ec82}{%
+           family={Martı́nez-Martı́nez},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={Luz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=91d0f4a5ee01aa05ca96cd09d6a013a1}{%
+           family={Niño},
+           familyi={N\bibinitperiod},
+           given={Jose\bibnamedelima Ignacio},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{051dbc9408d127d8197ebe08c8ecf643}
+      \strng{fullhash}{051dbc9408d127d8197ebe08c8ecf643}
+      \strng{bibnamehash}{051dbc9408d127d8197ebe08c8ecf643}
+      \strng{authorbibnamehash}{051dbc9408d127d8197ebe08c8ecf643}
+      \strng{authornamehash}{051dbc9408d127d8197ebe08c8ecf643}
+      \strng{authorfullhash}{051dbc9408d127d8197ebe08c8ecf643}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Eur. J. Soc. Sci. Educ. Res}
+      \field{number}{2}
+      \field{title}{A case study in neuromarketing: Analysis of the influence of music on advertising effectivenes through eye-tracking, facial emotion and GSR}
+      \field{volume}{5}
+      \field{year}{2018}
+      \field{pages}{73\bibrangedash 82}
+      \range{pages}{10}
+    \endentry
+    \entry{cypriani2009open}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=09ef165323e43524a54cdd3f3d315814}{%
+           family={Cypriani},
+           familyi={C\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3a85ffa5751f2ec67f2bfd3bdfad5273}{%
+           family={Lassabe},
+           familyi={L\bibinitperiod},
+           given={Frédéric},
+           giveni={F\bibinitperiod}}}%
+        {{hash=4afabf2aa86db6c9ec5aedc39a770020}{%
+           family={Canalda},
+           familyi={C\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1216db36f175f205ad4832e2018e757d}{%
+           family={Spies},
+           familyi={S\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{cae387d972ec06cd0535bf40e6ebde2f}
+      \strng{fullhash}{cae387d972ec06cd0535bf40e6ebde2f}
+      \strng{bibnamehash}{cae387d972ec06cd0535bf40e6ebde2f}
+      \strng{authorbibnamehash}{cae387d972ec06cd0535bf40e6ebde2f}
+      \strng{authornamehash}{cae387d972ec06cd0535bf40e6ebde2f}
+      \strng{authorfullhash}{cae387d972ec06cd0535bf40e6ebde2f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2009 IEEE 70th Vehicular Technology Conference Fall}
+      \field{title}{Open wireless positioning system: a Wi-Fi-based indoor positioning system}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+    \endentry
+    \entry{dargie2010fundamentals}{book}{}
+      \name{author}{2}{}{%
+        {{hash=c396bf935e548ff958153a4dcbb4acde}{%
+           family={Dargie},
+           familyi={D\bibinitperiod},
+           given={Waltenegus},
+           giveni={W\bibinitperiod}}}%
+        {{hash=2d9697741eb3f05db2ce6b7f4da0e469}{%
+           family={Poellabauer},
+           familyi={P\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{e38e206688b46ba7d12b1f32d37d29b4}
+      \strng{fullhash}{e38e206688b46ba7d12b1f32d37d29b4}
+      \strng{bibnamehash}{e38e206688b46ba7d12b1f32d37d29b4}
+      \strng{authorbibnamehash}{e38e206688b46ba7d12b1f32d37d29b4}
+      \strng{authornamehash}{e38e206688b46ba7d12b1f32d37d29b4}
+      \strng{authorfullhash}{e38e206688b46ba7d12b1f32d37d29b4}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentals of wireless sensor networks: theory and practice}
+      \field{year}{2010}
+    \endentry
+    \entry{dreiseitl2002logistic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=678b952300ffa50671e695cb4b4d2cdb}{%
+           family={Dreiseitl},
+           familyi={D\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dc4eda88319068b43bdb13c8273a1671}{%
+           family={Ohno-Machado},
+           familyi={O\bibinithyphendelim M\bibinitperiod},
+           given={Lucila},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{45856eb77a171d82c68b8f3da2c0aa5e}
+      \strng{fullhash}{45856eb77a171d82c68b8f3da2c0aa5e}
+      \strng{bibnamehash}{45856eb77a171d82c68b8f3da2c0aa5e}
+      \strng{authorbibnamehash}{45856eb77a171d82c68b8f3da2c0aa5e}
+      \strng{authornamehash}{45856eb77a171d82c68b8f3da2c0aa5e}
+      \strng{authorfullhash}{45856eb77a171d82c68b8f3da2c0aa5e}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of biomedical informatics}
+      \field{number}{5-6}
+      \field{title}{Logistic regression and artificial neural network classification models: a methodology review}
+      \field{volume}{35}
+      \field{year}{2002}
+      \field{pages}{352\bibrangedash 359}
+      \range{pages}{8}
+    \endentry
+    \entry{feng2011received}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ed98c7196710b55ff2bee69f5a5c45fc}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5294e8ded56aec17c02c6c917a3fdd72}{%
+           family={Au},
+           familyi={A\bibinitperiod},
+           given={Wain\bibnamedelimb Sy\bibnamedelima Anthea},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c03775e7602bb409dc1101476d2b6ecc}{%
+           family={Valaee},
+           familyi={V\bibinitperiod},
+           given={Shahrokh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f2714dd7e972a6e31192fa1ee9dc00f2}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Zhenhui},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7b7720ec7febd09ce02f4a4057071ee7}
+      \strng{fullhash}{7b7720ec7febd09ce02f4a4057071ee7}
+      \strng{bibnamehash}{7b7720ec7febd09ce02f4a4057071ee7}
+      \strng{authorbibnamehash}{7b7720ec7febd09ce02f4a4057071ee7}
+      \strng{authornamehash}{7b7720ec7febd09ce02f4a4057071ee7}
+      \strng{authorfullhash}{7b7720ec7febd09ce02f4a4057071ee7}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on mobile computing}
+      \field{number}{12}
+      \field{title}{Received-signal-strength-based indoor positioning using compressive sensing}
+      \field{volume}{11}
+      \field{year}{2011}
+      \field{pages}{1983\bibrangedash 1993}
+      \range{pages}{11}
+    \endentry
+    \entry{fortunato2014review}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b46a7da98b008b7daddb01c96bcdf0bb}{%
+           family={Fortunato},
+           familyi={F\bibinitperiod},
+           given={Vitor\bibnamedelimb Costa\bibnamedelima Rozan},
+           giveni={V\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=cbb36e7822828747849967f1df94e459}{%
+           family={Giraldi},
+           familyi={G\bibinitperiod},
+           given={Janaina\bibnamedelimb de\bibnamedelimb Moura\bibnamedelima Engracia},
+           giveni={J\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=172a1c1a6a86f59080b1bfebc15e115a}{%
+           family={De\bibnamedelima Oliveira},
+           familyi={D\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Jorge\bibnamedelimb Henrique\bibnamedelima Caldeira},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Macrothink Institute Inc.}%
+      }
+      \strng{namehash}{0251943dc6d9cc7d03aca8c5b42b61b9}
+      \strng{fullhash}{0251943dc6d9cc7d03aca8c5b42b61b9}
+      \strng{bibnamehash}{0251943dc6d9cc7d03aca8c5b42b61b9}
+      \strng{authorbibnamehash}{0251943dc6d9cc7d03aca8c5b42b61b9}
+      \strng{authornamehash}{0251943dc6d9cc7d03aca8c5b42b61b9}
+      \strng{authorfullhash}{0251943dc6d9cc7d03aca8c5b42b61b9}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Management Research}
+      \field{number}{2}
+      \field{title}{A review of studies on neuromarketing: Practical results, techniques, contributions and limitations}
+      \field{volume}{6}
+      \field{year}{2014}
+      \field{pages}{201}
+      \range{pages}{1}
+    \endentry
+    \entry{geurts2006extremely}{article}{}
+      \name{author}{3}{}{%
+        {{hash=04d0aa9fc26c1881b5d9f8abbcf7df51}{%
+           family={Geurts},
+           familyi={G\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6fbe33fd3b6a25f54629f311cb113551}{%
+           family={Ernst},
+           familyi={E\bibinitperiod},
+           given={Damien},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a66465f00752277e96b03f8046d66d7b}{%
+           family={Wehenkel},
+           familyi={W\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d0f7a6e18b557632261c444879fced3d}
+      \strng{fullhash}{d0f7a6e18b557632261c444879fced3d}
+      \strng{bibnamehash}{d0f7a6e18b557632261c444879fced3d}
+      \strng{authorbibnamehash}{d0f7a6e18b557632261c444879fced3d}
+      \strng{authornamehash}{d0f7a6e18b557632261c444879fced3d}
+      \strng{authorfullhash}{d0f7a6e18b557632261c444879fced3d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine learning}
+      \field{number}{1}
+      \field{title}{Extremely randomized trees}
+      \field{volume}{63}
+      \field{year}{2006}
+      \field{pages}{3\bibrangedash 42}
+      \range{pages}{40}
+    \endentry
+    \entry{goldberger2004neighbourhood}{article}{}
+      \name{author}{4}{}{%
+        {{hash=61ffa1afeaed1680543a9a0cb90072e4}{%
+           family={Goldberger},
+           familyi={G\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=813bd95fe553e6079cd53a567b238287}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={Geoffrey\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=709affbec617f6fb034be46e27fa4e34}{%
+           family={Roweis},
+           familyi={R\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f0b8bc62189ed0fc13d8da5338458baa}{%
+           family={Salakhutdinov},
+           familyi={S\bibinitperiod},
+           given={Russ\bibnamedelima R},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{352b11e02793fb1aabb6a70f8d60eea9}
+      \strng{fullhash}{352b11e02793fb1aabb6a70f8d60eea9}
+      \strng{bibnamehash}{352b11e02793fb1aabb6a70f8d60eea9}
+      \strng{authorbibnamehash}{352b11e02793fb1aabb6a70f8d60eea9}
+      \strng{authornamehash}{352b11e02793fb1aabb6a70f8d60eea9}
+      \strng{authorfullhash}{352b11e02793fb1aabb6a70f8d60eea9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in neural information processing systems}
+      \field{title}{Neighbourhood components analysis}
+      \field{volume}{17}
+      \field{year}{2004}
+    \endentry
+    \entry{haeberlen2004practical}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=8ccd03d5c7371cc7ef94ba9df64347b3}{%
+           family={Haeberlen},
+           familyi={H\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=195e090cc59cd3f46455099b178762da}{%
+           family={Flannery},
+           familyi={F\bibinitperiod},
+           given={Eliot},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d3d580b82a2fb1a1f928a6b3d5bf8b85}{%
+           family={Ladd},
+           familyi={L\bibinitperiod},
+           given={Andrew\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=49ee430a039be9a3a9c1a3a372ee4a94}{%
+           family={Rudys},
+           familyi={R\bibinitperiod},
+           given={Algis},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ccdabeaeaea069c5504cc19de9e374ba}{%
+           family={Wallach},
+           familyi={W\bibinitperiod},
+           given={Dan\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=53dd08518536edbe0ea582bab1515461}{%
+           family={Kavraki},
+           familyi={K\bibinitperiod},
+           given={Lydia\bibnamedelima E},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{06246d63402ba3d33923055af8b79399}
+      \strng{fullhash}{06246d63402ba3d33923055af8b79399}
+      \strng{bibnamehash}{06246d63402ba3d33923055af8b79399}
+      \strng{authorbibnamehash}{06246d63402ba3d33923055af8b79399}
+      \strng{authornamehash}{06246d63402ba3d33923055af8b79399}
+      \strng{authorfullhash}{06246d63402ba3d33923055af8b79399}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 10th annual international conference on Mobile computing and networking}
+      \field{title}{Practical robust localization over large-scale 802.11 wireless networks}
+      \field{year}{2004}
+      \field{pages}{70\bibrangedash 84}
+      \range{pages}{15}
+    \endentry
+    \entry{hashem2016role}{article}{}
+      \name{author}{8}{}{%
+        {{hash=3db72b28ca88d09572cce78216bd22f0}{%
+           family={Hashem},
+           familyi={H\bibinitperiod},
+           given={Ibrahim\bibnamedelimb Abaker\bibnamedelima Targio},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=e51911e17d0be2aaf958c1c9b55adaa3}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=14800a2474f837e5cc9535c238c8cc43}{%
+           family={Anuar},
+           familyi={A\bibinitperiod},
+           given={Nor\bibnamedelima Badrul},
+           giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=41f7efcc1c234c77eb20c004a2fc31d1}{%
+           family={Adewole},
+           familyi={A\bibinitperiod},
+           given={Kayode},
+           giveni={K\bibinitperiod}}}%
+        {{hash=446d935cc3981c652f747abe3a5227f0}{%
+           family={Yaqoob},
+           familyi={Y\bibinitperiod},
+           given={Ibrar},
+           giveni={I\bibinitperiod}}}%
+        {{hash=12a2bdd5a21b830affa3f042add044de}{%
+           family={Gani},
+           familyi={G\bibinitperiod},
+           given={Abdullah},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e871883725e9da401320f620cea1bf68}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Ejaz},
+           giveni={E\bibinitperiod}}}%
+        {{hash=73e15a33313ddf1458ee2085778217c6}{%
+           family={Chiroma},
+           familyi={C\bibinitperiod},
+           given={Haruna},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2b1e3417ca59a37d46154a87ced5dc85}
+      \strng{fullhash}{2b1e3417ca59a37d46154a87ced5dc85}
+      \strng{bibnamehash}{2b1e3417ca59a37d46154a87ced5dc85}
+      \strng{authorbibnamehash}{2b1e3417ca59a37d46154a87ced5dc85}
+      \strng{authornamehash}{2b1e3417ca59a37d46154a87ced5dc85}
+      \strng{authorfullhash}{2b1e3417ca59a37d46154a87ced5dc85}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of information management}
+      \field{number}{5}
+      \field{title}{The role of big data in smart city}
+      \field{volume}{36}
+      \field{year}{2016}
+      \field{pages}{748\bibrangedash 758}
+      \range{pages}{11}
+    \endentry
+    \entry{hearst1998support}{article}{}
+      \name{author}{5}{}{%
+        {{hash=45330e5d45157c38c5519d8cdb6cb1d8}{%
+           family={Hearst},
+           familyi={H\bibinitperiod},
+           given={Marti\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b281fab8d7a0d96509cc71fbce9567cd}{%
+           family={Dumais},
+           familyi={D\bibinitperiod},
+           given={Susan\bibnamedelima T},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=ababb07c9776ce704d69b2b61c4bda57}{%
+           family={Osuna},
+           familyi={O\bibinitperiod},
+           given={Edgar},
+           giveni={E\bibinitperiod}}}%
+        {{hash=74ebe0fc06c0292871d5f756cfe5414d}{%
+           family={Platt},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a8ec77afd672acfe7820edd22821493e}{%
+           family={Scholkopf},
+           familyi={S\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f745842dcc3642337f0500cae62327df}
+      \strng{fullhash}{f745842dcc3642337f0500cae62327df}
+      \strng{bibnamehash}{f745842dcc3642337f0500cae62327df}
+      \strng{authorbibnamehash}{f745842dcc3642337f0500cae62327df}
+      \strng{authornamehash}{f745842dcc3642337f0500cae62327df}
+      \strng{authorfullhash}{f745842dcc3642337f0500cae62327df}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Intelligent Systems and their applications}
+      \field{number}{4}
+      \field{title}{Support vector machines}
+      \field{volume}{13}
+      \field{year}{1998}
+      \field{pages}{18\bibrangedash 28}
+      \range{pages}{11}
+    \endentry
+    \entry{hinton1990connectionist}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=813bd95fe553e6079cd53a567b238287}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={Geoffrey\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{813bd95fe553e6079cd53a567b238287}
+      \strng{fullhash}{813bd95fe553e6079cd53a567b238287}
+      \strng{bibnamehash}{813bd95fe553e6079cd53a567b238287}
+      \strng{authorbibnamehash}{813bd95fe553e6079cd53a567b238287}
+      \strng{authornamehash}{813bd95fe553e6079cd53a567b238287}
+      \strng{authorfullhash}{813bd95fe553e6079cd53a567b238287}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Machine learning}
+      \field{title}{Connectionist learning procedures}
+      \field{year}{1990}
+      \field{pages}{555\bibrangedash 610}
+      \range{pages}{56}
+    \endentry
+    \entry{hoang2013parameter}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=c7853191321dc1fdb5976dfbe72bdc18}{%
+           family={Hoang},
+           familyi={H\bibinitperiod},
+           given={Manh\bibnamedelima Kha},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=27394268ec19154143123cbcd93f5788}{%
+           family={Haeb-Umbach},
+           familyi={H\bibinithyphendelim U\bibinitperiod},
+           given={Reinhold},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{87ca6386feee2dd643bb37172bb7296c}
+      \strng{fullhash}{87ca6386feee2dd643bb37172bb7296c}
+      \strng{bibnamehash}{87ca6386feee2dd643bb37172bb7296c}
+      \strng{authorbibnamehash}{87ca6386feee2dd643bb37172bb7296c}
+      \strng{authornamehash}{87ca6386feee2dd643bb37172bb7296c}
+      \strng{authorfullhash}{87ca6386feee2dd643bb37172bb7296c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2013 IEEE International Conference on Acoustics, Speech and Signal Processing}
+      \field{title}{Parameter estimation and classification of censored Gaussian data with application to WiFi indoor positioning}
+      \field{year}{2013}
+      \field{pages}{3721\bibrangedash 3725}
+      \range{pages}{5}
+    \endentry
+    \entry{holm2009hybrid}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=561c826f78aee119dd5f19abd467b8d8}{%
+           family={Holm},
+           familyi={H\bibinitperiod},
+           given={Sverre},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{561c826f78aee119dd5f19abd467b8d8}
+      \strng{fullhash}{561c826f78aee119dd5f19abd467b8d8}
+      \strng{bibnamehash}{561c826f78aee119dd5f19abd467b8d8}
+      \strng{authorbibnamehash}{561c826f78aee119dd5f19abd467b8d8}
+      \strng{authornamehash}{561c826f78aee119dd5f19abd467b8d8}
+      \strng{authorfullhash}{561c826f78aee119dd5f19abd467b8d8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2009 IEEE International Conference on RFID}
+      \field{title}{Hybrid ultrasound-RFID indoor positioning: Combining the best of both worlds}
+      \field{year}{2009}
+      \field{pages}{155\bibrangedash 162}
+      \range{pages}{8}
+    \endentry
+    \entry{howley2005effect}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=dbce20217dee86ca24b02940acfe379e}{%
+           family={Howley},
+           familyi={H\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3d2ab69b9cd1d0df2615051415649ade}{%
+           family={Madden},
+           familyi={M\bibinitperiod},
+           given={Michael\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=43004cffc95d9d0acd43bff1118089e8}{%
+           family={O’Connell},
+           familyi={O\bibinitperiod},
+           given={Marie-Louise},
+           giveni={M\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=42eda2c88d9506792635967dc5668b63}{%
+           family={Ryder},
+           familyi={R\bibinitperiod},
+           given={Alan\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{11506e987577368fc77f4f63ed3fef1f}
+      \strng{fullhash}{11506e987577368fc77f4f63ed3fef1f}
+      \strng{bibnamehash}{11506e987577368fc77f4f63ed3fef1f}
+      \strng{authorbibnamehash}{11506e987577368fc77f4f63ed3fef1f}
+      \strng{authornamehash}{11506e987577368fc77f4f63ed3fef1f}
+      \strng{authorfullhash}{11506e987577368fc77f4f63ed3fef1f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Innovative Techniques and Applications of Artificial Intelligence}
+      \field{title}{The effect of principal component analysis on machine learning accuracy with high dimensional spectral data}
+      \field{year}{2005}
+      \field{pages}{209\bibrangedash 222}
+      \range{pages}{14}
+    \endentry
+    \entry{huang2014swadloon}{article}{}
+      \name{author}{8}{}{%
+        {{hash=fa40d1871774301b89ed1685f9531790}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Wenchao},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f41af91038c5204b5ef8c0721b0eb146}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=221a9db31d58c379d114c11fe793bdb8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiang-Yang},
+           giveni={X\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=8d02780d4e132974a543aeeaade6df49}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1254e1b7fe697c4d4211e74123bb92ff}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={XuFei},
+           giveni={X\bibinitperiod}}}%
+        {{hash=b761b1168c3ae946fa862b1999dfbe86}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Panlong},
+           giveni={P\bibinitperiod}}}%
+        {{hash=33f3892f364ace97b23d47eb1f1eebc0}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yunhao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7890384fb71889229ae5f79a1abe2beb}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xingfu},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{61d7706e594e8607cdcc3f629069febf}
+      \strng{fullhash}{61d7706e594e8607cdcc3f629069febf}
+      \strng{bibnamehash}{61d7706e594e8607cdcc3f629069febf}
+      \strng{authorbibnamehash}{61d7706e594e8607cdcc3f629069febf}
+      \strng{authornamehash}{61d7706e594e8607cdcc3f629069febf}
+      \strng{authorfullhash}{61d7706e594e8607cdcc3f629069febf}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Mobile Computing}
+      \field{number}{10}
+      \field{title}{Swadloon: Direction finding and indoor localization using acoustic signal by shaking smartphones}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{2145\bibrangedash 2157}
+      \range{pages}{13}
+    \endentry
+    \entry{huey2011augmented}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=09857673073274288c9ebab79c6553ac}{%
+           family={Huey},
+           familyi={H\bibinitperiod},
+           given={Low\bibnamedelima Chee},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=8e9619c5429cec1136205b2b9e0483ff}{%
+           family={Sebastian},
+           familyi={S\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=33a8963dd5b42d2c75a19d7f1265e06c}{%
+           family={Drieberg},
+           familyi={D\bibinitperiod},
+           given={Micheal},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ab9fafa5d6940bce7c9993c69daa8216}
+      \strng{fullhash}{ab9fafa5d6940bce7c9993c69daa8216}
+      \strng{bibnamehash}{ab9fafa5d6940bce7c9993c69daa8216}
+      \strng{authorbibnamehash}{ab9fafa5d6940bce7c9993c69daa8216}
+      \strng{authornamehash}{ab9fafa5d6940bce7c9993c69daa8216}
+      \strng{authorfullhash}{ab9fafa5d6940bce7c9993c69daa8216}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2011 IEEE Conference on Open Systems}
+      \field{title}{Augmented reality based indoor positioning navigation tool}
+      \field{year}{2011}
+      \field{pages}{256\bibrangedash 260}
+      \range{pages}{5}
+    \endentry
+    \entry{4160265}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a2f53dcc6bb05a06b8ad94176f80fe26}{%
+           family={Hunter},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{fullhash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{bibnamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorbibnamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authornamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorfullhash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computing in Science Engineering}
+      \field{number}{3}
+      \field{title}{Matplotlib: A 2D Graphics Environment}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{pages}{90\bibrangedash 95}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/MCSE.2007.55
+      \endverb
+    \endentry
+    \entry{apple-ibeacon}{online}{}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{title}{{iBeacon}}
+      \verb{urlraw}
+      \verb https://developer.apple.com/ibeacon/
+      \endverb
+      \verb{url}
+      \verb https://developer.apple.com/ibeacon/
+      \endverb
+      \warn{\item Entry 'apple-ibeacon' (biblio.bib): Invalid format '\today' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{izenman2013multivariate}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=4301fff3cb570308a65d1d20e694ec96}{%
+           family={Izenman},
+           familyi={I\bibinitperiod},
+           given={Alan\bibnamedelima Julian},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4301fff3cb570308a65d1d20e694ec96}
+      \strng{fullhash}{4301fff3cb570308a65d1d20e694ec96}
+      \strng{bibnamehash}{4301fff3cb570308a65d1d20e694ec96}
+      \strng{authorbibnamehash}{4301fff3cb570308a65d1d20e694ec96}
+      \strng{authornamehash}{4301fff3cb570308a65d1d20e694ec96}
+      \strng{authorfullhash}{4301fff3cb570308a65d1d20e694ec96}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Modern multivariate statistical techniques}
+      \field{title}{Multivariate regression}
+      \field{year}{2013}
+      \field{pages}{159\bibrangedash 194}
+      \range{pages}{36}
+    \endentry
+    \entry{jablonski2015principal}{article}{}
+      \name{author}{3}{}{%
+        {{hash=537cb28e3d466d284e9160a9292058b4}{%
+           family={Jablonski},
+           familyi={J\bibinitperiod},
+           given={James\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=48b7f118dc86da42903dae5656e4a0c4}{%
+           family={Bihl},
+           familyi={B\bibinitperiod},
+           given={Trevor\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=afc158b3abe51eb0e116d792f732102e}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Kenneth\bibnamedelima W},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{49b67d45012f16c16ce5a33e317773f0}
+      \strng{fullhash}{49b67d45012f16c16ce5a33e317773f0}
+      \strng{bibnamehash}{49b67d45012f16c16ce5a33e317773f0}
+      \strng{authorbibnamehash}{49b67d45012f16c16ce5a33e317773f0}
+      \strng{authornamehash}{49b67d45012f16c16ce5a33e317773f0}
+      \strng{authorfullhash}{49b67d45012f16c16ce5a33e317773f0}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Geoscience and Remote Sensing Letters}
+      \field{number}{8}
+      \field{title}{Principal component reconstruction error for hyperspectral anomaly detection}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{pages}{1725\bibrangedash 1729}
+      \range{pages}{5}
+    \endentry
+    \entry{jang2018indoor}{article}{}
+      \name{author}{2}{}{%
+        {{hash=87432519ea3aba721e5e429a5c8f1243}{%
+           family={Jang},
+           familyi={J\bibinitperiod},
+           given={Beakcheol},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1c1e1df8598c3b90f90218c1a6e9abad}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hyunjung},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7e52ce2e9d0fa2826f24057d47239a73}
+      \strng{fullhash}{7e52ce2e9d0fa2826f24057d47239a73}
+      \strng{bibnamehash}{7e52ce2e9d0fa2826f24057d47239a73}
+      \strng{authorbibnamehash}{7e52ce2e9d0fa2826f24057d47239a73}
+      \strng{authornamehash}{7e52ce2e9d0fa2826f24057d47239a73}
+      \strng{authorfullhash}{7e52ce2e9d0fa2826f24057d47239a73}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Surveys \& Tutorials}
+      \field{number}{1}
+      \field{title}{Indoor positioning technologies without offline fingerprinting map: A survey}
+      \field{volume}{21}
+      \field{year}{2018}
+      \field{pages}{508\bibrangedash 525}
+      \range{pages}{18}
+    \endentry
+    \entry{janssen2009understanding}{article}{}
+      \name{author}{1}{}{%
+        {{hash=60a894c8bfdf246f19aceabe9683335d}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{60a894c8bfdf246f19aceabe9683335d}
+      \strng{fullhash}{60a894c8bfdf246f19aceabe9683335d}
+      \strng{bibnamehash}{60a894c8bfdf246f19aceabe9683335d}
+      \strng{authorbibnamehash}{60a894c8bfdf246f19aceabe9683335d}
+      \strng{authornamehash}{60a894c8bfdf246f19aceabe9683335d}
+      \strng{authorfullhash}{60a894c8bfdf246f19aceabe9683335d}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Geoinformatics}
+      \field{number}{4}
+      \field{title}{Understanding coordinate reference systems, datums and transformations}
+      \field{volume}{5}
+      \field{year}{2009}
+      \field{pages}{41\bibrangedash 53}
+      \range{pages}{13}
+    \endentry
+    \entry{jiang2012ariel}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=431d0f9229b81284d4ba2cae82fe35ca}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Yifei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ed42bc259d07942688d26b93133d420e}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=7112bd5b38def4a55168243f6bc5e41b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Kun},
+           giveni={K\bibinitperiod}}}%
+        {{hash=83510481028abdcb7de457e6786b93d4}{%
+           family={Lv},
+           familyi={L\bibinitperiod},
+           given={Qin},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=f8a659d4f9659d97a2ce6dae42b843e7}{%
+           family={Dick},
+           familyi={D\bibinitperiod},
+           given={Robert\bibnamedelima P},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=6b9434f7ace0671a492fc956d59e8778}{%
+           family={Hannigan},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=26ec9fc7d7f63944f2db65719eb3c384}{%
+           family={Shang},
+           familyi={S\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{c52f8ae3da26748d8dceaf25b9cb8a18}
+      \strng{fullhash}{c52f8ae3da26748d8dceaf25b9cb8a18}
+      \strng{bibnamehash}{c52f8ae3da26748d8dceaf25b9cb8a18}
+      \strng{authorbibnamehash}{c52f8ae3da26748d8dceaf25b9cb8a18}
+      \strng{authornamehash}{c52f8ae3da26748d8dceaf25b9cb8a18}
+      \strng{authorfullhash}{c52f8ae3da26748d8dceaf25b9cb8a18}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2012 ACM conference on ubiquitous computing}
+      \field{title}{Ariel: Automatic wi-fi based room fingerprinting for indoor localization}
+      \field{year}{2012}
+      \field{pages}{441\bibrangedash 450}
+      \range{pages}{10}
+    \endentry
+    \entry{1331706}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=c16a1f76c86f54858cacd5bc9846df21}{%
+           family={Kaemarungsi},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5a4daa1a4f720a710330c2c71feb6816}{%
+           family={Krishnamurthy},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0931a88c14d246160afea0e3fce1d169}
+      \strng{fullhash}{0931a88c14d246160afea0e3fce1d169}
+      \strng{bibnamehash}{0931a88c14d246160afea0e3fce1d169}
+      \strng{authorbibnamehash}{0931a88c14d246160afea0e3fce1d169}
+      \strng{authornamehash}{0931a88c14d246160afea0e3fce1d169}
+      \strng{authorfullhash}{0931a88c14d246160afea0e3fce1d169}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The First Annual International Conference on Mobile and Ubiquitous Systems: Networking and Services, 2004. MOBIQUITOUS 2004.}
+      \field{title}{Properties of indoor received signal strength for WLAN location fingerprinting}
+      \field{year}{2004}
+      \field{pages}{14\bibrangedash 23}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/MOBIQ.2004.1331706
+      \endverb
+    \endentry
+    \entry{kang2012improved}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=b11fa401e3b44c09558dfd539a6c6207}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Wonho},
+           giveni={W\bibinitperiod}}}%
+        {{hash=d9886742f2b8fcfb91ad00b522235e9e}{%
+           family={Nam},
+           familyi={N\bibinitperiod},
+           given={Seongho},
+           giveni={S\bibinitperiod}}}%
+        {{hash=042b8cd0468d16ceaf86e3ed25c926de}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Youngnam},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0073a8f27788a6f0a8cec7a2ae336d46}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sookjin},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a9bf958f2215004e504082abf1295a6d}
+      \strng{fullhash}{a9bf958f2215004e504082abf1295a6d}
+      \strng{bibnamehash}{a9bf958f2215004e504082abf1295a6d}
+      \strng{authorbibnamehash}{a9bf958f2215004e504082abf1295a6d}
+      \strng{authornamehash}{a9bf958f2215004e504082abf1295a6d}
+      \strng{authorfullhash}{a9bf958f2215004e504082abf1295a6d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 IEEE 23rd International Symposium on Personal, Indoor and Mobile Radio Communications-(PIMRC)}
+      \field{title}{Improved heading estimation for smartphone-based indoor positioning systems}
+      \field{year}{2012}
+      \field{pages}{2449\bibrangedash 2453}
+      \range{pages}{5}
+    \endentry
+    \entry{kibriya2004multinomial}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=87ef2a11f77171b1ae44a29160774ec4}{%
+           family={Kibriya},
+           familyi={K\bibinitperiod},
+           given={Ashraf\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=14376659b7c222795bf43d1158efbaef}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Eibe},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8d3031672ff9944d1bd83979cee191bb}{%
+           family={Pfahringer},
+           familyi={P\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a8cf4cd7abdf3cb3b82ac01950b95778}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4553188f1386a8eaae0b52661f5c1c9c}
+      \strng{fullhash}{4553188f1386a8eaae0b52661f5c1c9c}
+      \strng{bibnamehash}{4553188f1386a8eaae0b52661f5c1c9c}
+      \strng{authorbibnamehash}{4553188f1386a8eaae0b52661f5c1c9c}
+      \strng{authornamehash}{4553188f1386a8eaae0b52661f5c1c9c}
+      \strng{authorfullhash}{4553188f1386a8eaae0b52661f5c1c9c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Australasian Joint Conference on Artificial Intelligence}
+      \field{title}{Multinomial naive bayes for text categorization revisited}
+      \field{year}{2004}
+      \field{pages}{488\bibrangedash 499}
+      \range{pages}{12}
+    \endentry
+    \entry{kim2015analysis}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d82e8c2bbc9258de05fd40ca9826d3a5}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Dong\bibnamedelima Woo},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=6b9271022cca6caaa129b1a43c4376ac}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Tae\bibnamedelima Gu},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=07612eea4ea9252ba4ca172ba4610bba}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Guozhong},
+           giveni={G\bibinitperiod}}}%
+        {{hash=02cb7d55fcb4595def3c83afff82f2ee}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Seong\bibnamedelima Taek},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{14b3c55573109aa708f19aefdd8c2074}
+      \strng{fullhash}{14b3c55573109aa708f19aefdd8c2074}
+      \strng{bibnamehash}{14b3c55573109aa708f19aefdd8c2074}
+      \strng{authorbibnamehash}{14b3c55573109aa708f19aefdd8c2074}
+      \strng{authornamehash}{14b3c55573109aa708f19aefdd8c2074}
+      \strng{authorfullhash}{14b3c55573109aa708f19aefdd8c2074}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Indian Journal of Science and Technology}
+      \field{number}{25}
+      \field{title}{Analysis of user’s behaviors and growth factors of shopping mall using bigdata}
+      \field{volume}{8}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+    \endentry
+    \entry{kohavi1995study}{inproceedings}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=f2a149b8d68fbffd75e8ece81b80708f}{%
+           family={Kohavi},
+           familyi={K\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Montreal, Canada}%
+      }
+      \strng{namehash}{3f993bd4393817440119707795635244}
+      \strng{fullhash}{3f993bd4393817440119707795635244}
+      \strng{bibnamehash}{3f993bd4393817440119707795635244}
+      \strng{authorbibnamehash}{3f993bd4393817440119707795635244}
+      \strng{authornamehash}{3f993bd4393817440119707795635244}
+      \strng{authorfullhash}{3f993bd4393817440119707795635244}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Ijcai}
+      \field{number}{2}
+      \field{title}{A study of cross-validation and bootstrap for accuracy estimation and model selection}
+      \field{volume}{14}
+      \field{year}{1995}
+      \field{pages}{1137\bibrangedash 1145}
+      \range{pages}{9}
+    \endentry
+    \entry{kotaru2015spotfi}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=fc457fa079ec052ede261e48e52e65dc}{%
+           family={Kotaru},
+           familyi={K\bibinitperiod},
+           given={Manikanta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f1aee8ea482c5b15b23bc771d6d28852}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={Kiran},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d6ab48422b11d356dfe557b21f9c8d4b}{%
+           family={Bharadia},
+           familyi={B\bibinitperiod},
+           given={Dinesh},
+           giveni={D\bibinitperiod}}}%
+        {{hash=93cc50872f561dd5f1b24de82b42973b}{%
+           family={Katti},
+           familyi={K\bibinitperiod},
+           given={Sachin},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{25a5d60bccafc4db9975ce1fa08f0042}
+      \strng{fullhash}{25a5d60bccafc4db9975ce1fa08f0042}
+      \strng{bibnamehash}{25a5d60bccafc4db9975ce1fa08f0042}
+      \strng{authorbibnamehash}{25a5d60bccafc4db9975ce1fa08f0042}
+      \strng{authornamehash}{25a5d60bccafc4db9975ce1fa08f0042}
+      \strng{authorfullhash}{25a5d60bccafc4db9975ce1fa08f0042}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication}
+      \field{title}{Spotfi: Decimeter level localization using wifi}
+      \field{year}{2015}
+      \field{pages}{269\bibrangedash 282}
+      \range{pages}{14}
+    \endentry
+    \entry{kramer2013k}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e3c484f4645ee26b259ed57397784c05}{%
+           family={Kramer},
+           familyi={K\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e3c484f4645ee26b259ed57397784c05}
+      \strng{fullhash}{e3c484f4645ee26b259ed57397784c05}
+      \strng{bibnamehash}{e3c484f4645ee26b259ed57397784c05}
+      \strng{authorbibnamehash}{e3c484f4645ee26b259ed57397784c05}
+      \strng{authornamehash}{e3c484f4645ee26b259ed57397784c05}
+      \strng{authorfullhash}{e3c484f4645ee26b259ed57397784c05}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dimensionality reduction with unsupervised nearest neighbors}
+      \field{title}{K-nearest neighbors}
+      \field{year}{2013}
+      \field{pages}{13\bibrangedash 23}
+      \range{pages}{11}
+    \endentry
+    \entry{krishnan2004system}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=32a561702277fb91edb0811e10e7d635}{%
+           family={Krishnan},
+           familyi={K\bibinitperiod},
+           given={Parameshwaran},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2336880a480c6998883c5baeb19bfdcc}{%
+           family={Krishnakumar},
+           familyi={K\bibinitperiod},
+           given={AS},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c7227a23082f9bbe71863cb4ae59c097}{%
+           family={Ju},
+           familyi={J\bibinitperiod},
+           given={Wen-Hua},
+           giveni={W\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=b7a9959648f656e43ccf6e0bf65e5bc1}{%
+           family={Mallows},
+           familyi={M\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=343f35ed62999da326210443ee599db5}{%
+           family={Gamt},
+           familyi={G\bibinitperiod},
+           given={Sachin},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{d0617f8f7a9cfadbe185e1f0f9e29936}
+      \strng{fullhash}{d0617f8f7a9cfadbe185e1f0f9e29936}
+      \strng{bibnamehash}{d0617f8f7a9cfadbe185e1f0f9e29936}
+      \strng{authorbibnamehash}{d0617f8f7a9cfadbe185e1f0f9e29936}
+      \strng{authornamehash}{d0617f8f7a9cfadbe185e1f0f9e29936}
+      \strng{authorfullhash}{d0617f8f7a9cfadbe185e1f0f9e29936}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE infocom 2004}
+      \field{title}{A system for LEASE: Location estimation assisted by stationary emitters for indoor RF wireless networks}
+      \field{volume}{2}
+      \field{year}{2004}
+      \field{pages}{1001\bibrangedash 1011}
+      \range{pages}{11}
+    \endentry
+    \entry{kumar2014accurate}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=4b0a8e85fc18a5852c5cea6c3a4a811e}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Swarun},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7a779c689995cb1cdb7483a2471d36b3}{%
+           family={Gil},
+           familyi={G\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6e0ce061f94814a53a3c36cd68ac70ab}{%
+           family={Katabi},
+           familyi={K\bibinitperiod},
+           given={Dina},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f74192f92945701041a41bfa429ee111}{%
+           family={Rus},
+           familyi={R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f766f072531c71f1195bc25778465e60}
+      \strng{fullhash}{f766f072531c71f1195bc25778465e60}
+      \strng{bibnamehash}{f766f072531c71f1195bc25778465e60}
+      \strng{authorbibnamehash}{f766f072531c71f1195bc25778465e60}
+      \strng{authornamehash}{f766f072531c71f1195bc25778465e60}
+      \strng{authorfullhash}{f766f072531c71f1195bc25778465e60}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 20th annual international conference on Mobile computing and networking}
+      \field{title}{Accurate indoor localization with zero start-up cost}
+      \field{year}{2014}
+      \field{pages}{483\bibrangedash 494}
+      \range{pages}{12}
+    \endentry
+    \entry{kuo2014luxapose}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=651e1192afe3677fe76c0a95a2d0ca1a}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Ye-Sheng},
+           giveni={Y\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=6c3e8921ad572b99514499227496d134}{%
+           family={Pannuto},
+           familyi={P\bibinitperiod},
+           given={Pat},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f7ccdd15178aebb4d070e513c8da98b6}{%
+           family={Hsiao},
+           familyi={H\bibinitperiod},
+           given={Ko-Jen},
+           giveni={K\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=13cf086b1a3a5edd2816cffebf47e710}{%
+           family={Dutta},
+           familyi={D\bibinitperiod},
+           given={Prabal},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9195ad2cce62b06ce2bf15b577cc6d2e}
+      \strng{fullhash}{9195ad2cce62b06ce2bf15b577cc6d2e}
+      \strng{bibnamehash}{9195ad2cce62b06ce2bf15b577cc6d2e}
+      \strng{authorbibnamehash}{9195ad2cce62b06ce2bf15b577cc6d2e}
+      \strng{authornamehash}{9195ad2cce62b06ce2bf15b577cc6d2e}
+      \strng{authorfullhash}{9195ad2cce62b06ce2bf15b577cc6d2e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 20th annual international conference on Mobile computing and networking}
+      \field{title}{Luxapose: Indoor positioning with mobile phones and visible light}
+      \field{year}{2014}
+      \field{pages}{447\bibrangedash 458}
+      \range{pages}{12}
+    \endentry
+    \entry{ladd2005robotics}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d3d580b82a2fb1a1f928a6b3d5bf8b85}{%
+           family={Ladd},
+           familyi={L\bibinitperiod},
+           given={Andrew\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=06adc0d309c70cea8e8c2620ed6e0c4a}{%
+           family={Bekris},
+           familyi={B\bibinitperiod},
+           given={Kostas\bibnamedelima E},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=49ee430a039be9a3a9c1a3a372ee4a94}{%
+           family={Rudys},
+           familyi={R\bibinitperiod},
+           given={Algis},
+           giveni={A\bibinitperiod}}}%
+        {{hash=53dd08518536edbe0ea582bab1515461}{%
+           family={Kavraki},
+           familyi={K\bibinitperiod},
+           given={Lydia\bibnamedelima E},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=ccdabeaeaea069c5504cc19de9e374ba}{%
+           family={Wallach},
+           familyi={W\bibinitperiod},
+           given={Dan\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f704e0206414f1f3a10be8af98247d1d}
+      \strng{fullhash}{f704e0206414f1f3a10be8af98247d1d}
+      \strng{bibnamehash}{f704e0206414f1f3a10be8af98247d1d}
+      \strng{authorbibnamehash}{f704e0206414f1f3a10be8af98247d1d}
+      \strng{authornamehash}{f704e0206414f1f3a10be8af98247d1d}
+      \strng{authorfullhash}{f704e0206414f1f3a10be8af98247d1d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wireless networks}
+      \field{number}{1}
+      \field{title}{Robotics-based location sensing using wireless ethernet}
+      \field{volume}{11}
+      \field{year}{2005}
+      \field{pages}{189\bibrangedash 204}
+      \range{pages}{16}
+    \endentry
+    \entry{liu2012push}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=a32738d3ad07955ffd1e892501e478ac}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Hongbo},
+           giveni={H\bibinitperiod}}}%
+        {{hash=61690f198459b08aee60106ffba83f46}{%
+           family={Gan},
+           familyi={G\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4656453b716273b4ea07ab731e9b6dd5}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a72816f564be5838dfe5a6b9411e2829}{%
+           family={Sidhom},
+           familyi={S\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5c786d9afb3cf178271120f1fd926d21}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=da6c79f9546ad88a2e796febc7e145da}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yingying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c11bd128b690cf48da17ef8779fc89dd}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0c4523428fa82fbd8ec7bff5ae033b8}
+      \strng{fullhash}{e0c4523428fa82fbd8ec7bff5ae033b8}
+      \strng{bibnamehash}{e0c4523428fa82fbd8ec7bff5ae033b8}
+      \strng{authorbibnamehash}{e0c4523428fa82fbd8ec7bff5ae033b8}
+      \strng{authornamehash}{e0c4523428fa82fbd8ec7bff5ae033b8}
+      \strng{authorfullhash}{e0c4523428fa82fbd8ec7bff5ae033b8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 18th annual international conference on Mobile computing and networking}
+      \field{title}{Push the limit of WiFi based localization for smartphones}
+      \field{year}{2012}
+      \field{pages}{305\bibrangedash 316}
+      \range{pages}{12}
+    \endentry
+    \entry{liu2007survey}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c2969289c79bfb5f2bd68129932f963b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+        {{hash=67f055b8170de4924493b8b4c8f167da}{%
+           family={Darabi},
+           familyi={D\bibinitperiod},
+           given={Houshang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=353655ef8df477d1f9b20b307f658a8f}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Pat},
+           giveni={P\bibinitperiod}}}%
+        {{hash=83f95dca7c81df3fe67380769eb0321c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{bee442df7a4cf14775f5627bc0a9016d}
+      \strng{fullhash}{bee442df7a4cf14775f5627bc0a9016d}
+      \strng{bibnamehash}{bee442df7a4cf14775f5627bc0a9016d}
+      \strng{authorbibnamehash}{bee442df7a4cf14775f5627bc0a9016d}
+      \strng{authornamehash}{bee442df7a4cf14775f5627bc0a9016d}
+      \strng{authorfullhash}{bee442df7a4cf14775f5627bc0a9016d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)}
+      \field{number}{6}
+      \field{title}{Survey of wireless indoor positioning techniques and systems}
+      \field{volume}{37}
+      \field{year}{2007}
+      \field{pages}{1067\bibrangedash 1080}
+      \range{pages}{14}
+    \endentry
+    \entry{liu2011wifi}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=0d5055dc8833a98f6e644e12b8b27fa4}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Hung-Huan},
+           giveni={H\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=5ce05ff0822e057bf3a43a475b34c789}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yu-Non},
+           giveni={Y\bibinithyphendelim N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{abf06b879ef19ea3e09e1b705cbf84db}
+      \strng{fullhash}{abf06b879ef19ea3e09e1b705cbf84db}
+      \strng{bibnamehash}{abf06b879ef19ea3e09e1b705cbf84db}
+      \strng{authorbibnamehash}{abf06b879ef19ea3e09e1b705cbf84db}
+      \strng{authornamehash}{abf06b879ef19ea3e09e1b705cbf84db}
+      \strng{authorfullhash}{abf06b879ef19ea3e09e1b705cbf84db}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{TENCON 2011-2011 IEEE Region 10 Conference}
+      \field{title}{WiFi-based indoor positioning for multi-floor environment}
+      \field{year}{2011}
+      \field{pages}{597\bibrangedash 601}
+      \range{pages}{5}
+    \endentry
+    \entry{liu2013guoguo}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=7db00e7b0a0d0f6490bd677f44e1109e}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Kaikai},
+           giveni={K\bibinitperiod}}}%
+        {{hash=eb2cd214b403bf76ec010584b7799da3}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xinxin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=a6278bd27ac7d7873f7c9aa0363482b8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaolin},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{1fbfdb35ed113f5641a0dc9d54fa7374}
+      \strng{fullhash}{1fbfdb35ed113f5641a0dc9d54fa7374}
+      \strng{bibnamehash}{1fbfdb35ed113f5641a0dc9d54fa7374}
+      \strng{authorbibnamehash}{1fbfdb35ed113f5641a0dc9d54fa7374}
+      \strng{authornamehash}{1fbfdb35ed113f5641a0dc9d54fa7374}
+      \strng{authorfullhash}{1fbfdb35ed113f5641a0dc9d54fa7374}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceeding of the 11th annual international conference on Mobile systems, applications, and services}
+      \field{title}{Guoguo: Enabling fine-grained indoor localization via smartphone}
+      \field{year}{2013}
+      \field{pages}{235\bibrangedash 248}
+      \range{pages}{14}
+    \endentry
+    \entry{liu2011feature}{article}{}
+      \name{author}{4}{}{%
+        {{hash=55d6d8c095dfab5dadd0a267a1306d9d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Quanzhong},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=d3a5ec3d4b2212750d46ee7b85ca284e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chihau},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=79529c2f012189965c98a1af403e7b57}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Zhengguo},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f0121003746430ea61c4fe6d300761f5}
+      \strng{fullhash}{f0121003746430ea61c4fe6d300761f5}
+      \strng{bibnamehash}{f0121003746430ea61c4fe6d300761f5}
+      \strng{authorbibnamehash}{f0121003746430ea61c4fe6d300761f5}
+      \strng{authornamehash}{f0121003746430ea61c4fe6d300761f5}
+      \strng{authorfullhash}{f0121003746430ea61c4fe6d300761f5}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Artificial Intelligence Review}
+      \field{number}{2}
+      \field{title}{Feature selection for support vector machines with RBF kernel}
+      \field{volume}{36}
+      \field{year}{2011}
+      \field{pages}{99\bibrangedash 115}
+      \range{pages}{17}
+    \endentry
+    \entry{liu2012new}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=55622f58b282ac721a2269b140132301}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yanli},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=642cc170ee78b8c0c88e6d5010d83fc2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yourong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=112faefb37293f52cd92c3bb36fcc08b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{afa925058e13c16f0d44f6b850345162}
+      \strng{fullhash}{afa925058e13c16f0d44f6b850345162}
+      \strng{bibnamehash}{afa925058e13c16f0d44f6b850345162}
+      \strng{authorbibnamehash}{afa925058e13c16f0d44f6b850345162}
+      \strng{authornamehash}{afa925058e13c16f0d44f6b850345162}
+      \strng{authorfullhash}{afa925058e13c16f0d44f6b850345162}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Information Computing and Applications}
+      \field{title}{New machine learning algorithm: Random forest}
+      \field{year}{2012}
+      \field{pages}{246\bibrangedash 252}
+      \range{pages}{7}
+    \endentry
+    \entry{livingston2005implementation}{article}{}
+      \name{author}{1}{}{%
+        {{hash=783ad18004911bf81c5f78fc86413f39}{%
+           family={Livingston},
+           familyi={L\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{783ad18004911bf81c5f78fc86413f39}
+      \strng{fullhash}{783ad18004911bf81c5f78fc86413f39}
+      \strng{bibnamehash}{783ad18004911bf81c5f78fc86413f39}
+      \strng{authorbibnamehash}{783ad18004911bf81c5f78fc86413f39}
+      \strng{authornamehash}{783ad18004911bf81c5f78fc86413f39}
+      \strng{authorfullhash}{783ad18004911bf81c5f78fc86413f39}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ECE591Q Machine Learning Journal Paper}
+      \field{title}{Implementation of Breiman’s random forest machine learning algorithm}
+      \field{year}{2005}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+    \endentry
+    \entry{10.5555/1394399}{book}{}
+      \name{author}{3}{}{%
+        {{hash=2214edb8305f7ccd7cdc310b3a8ae1b4}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Christopher\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=68f523934985e2f967ab2b15f4ded07c}{%
+           family={Raghavan},
+           familyi={R\bibinitperiod},
+           given={Prabhakar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9a80de0e5ec6df57363aaf321a5d05be}{%
+           family={Schütze},
+           familyi={S\bibinitperiod},
+           given={Hinrich},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {USA}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{56b44e50eec2e98e36ad6aa3a5e7af9b}
+      \strng{fullhash}{56b44e50eec2e98e36ad6aa3a5e7af9b}
+      \strng{bibnamehash}{56b44e50eec2e98e36ad6aa3a5e7af9b}
+      \strng{authorbibnamehash}{56b44e50eec2e98e36ad6aa3a5e7af9b}
+      \strng{authornamehash}{56b44e50eec2e98e36ad6aa3a5e7af9b}
+      \strng{authorfullhash}{56b44e50eec2e98e36ad6aa3a5e7af9b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0521865719}
+      \field{title}{Introduction to Information Retrieval}
+      \field{year}{2008}
+    \endentry
+    \entry{mcdonald2009ridge}{article}{}
+      \name{author}{1}{}{%
+        {{hash=263ecf409479f8cf29c087d9d6ddab46}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Gary\bibnamedelima C},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{263ecf409479f8cf29c087d9d6ddab46}
+      \strng{fullhash}{263ecf409479f8cf29c087d9d6ddab46}
+      \strng{bibnamehash}{263ecf409479f8cf29c087d9d6ddab46}
+      \strng{authorbibnamehash}{263ecf409479f8cf29c087d9d6ddab46}
+      \strng{authornamehash}{263ecf409479f8cf29c087d9d6ddab46}
+      \strng{authorfullhash}{263ecf409479f8cf29c087d9d6ddab46}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wiley Interdisciplinary Reviews: Computational Statistics}
+      \field{number}{1}
+      \field{title}{Ridge regression}
+      \field{volume}{1}
+      \field{year}{2009}
+      \field{pages}{93\bibrangedash 100}
+      \range{pages}{8}
+    \endentry
+    \entry{mohammadi2017semisupervised}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e9633357f28c5a519b419b285ed60085}{%
+           family={Mohammadi},
+           familyi={M\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8868a3dff96deabbbb427b120f6f2281}{%
+           family={Al-Fuqaha},
+           familyi={A\bibinithyphendelim F\bibinitperiod},
+           given={Ala},
+           giveni={A\bibinitperiod}}}%
+        {{hash=05189762dbb0ad87814451304904fe83}{%
+           family={Guizani},
+           familyi={G\bibinitperiod},
+           given={Mohsen},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a4e1ef91d4d878941a759ad6f0291a5a}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={Jun-Seok},
+           giveni={J\bibinithyphendelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{2ce8f220e24a9cb291c6a4845b81f2f8}
+      \strng{fullhash}{2ce8f220e24a9cb291c6a4845b81f2f8}
+      \strng{bibnamehash}{2ce8f220e24a9cb291c6a4845b81f2f8}
+      \strng{authorbibnamehash}{2ce8f220e24a9cb291c6a4845b81f2f8}
+      \strng{authornamehash}{2ce8f220e24a9cb291c6a4845b81f2f8}
+      \strng{authorfullhash}{2ce8f220e24a9cb291c6a4845b81f2f8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Internet of Things Journal}
+      \field{number}{2}
+      \field{title}{Semisupervised deep reinforcement learning in support of IoT and smart city services}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{pages}{624\bibrangedash 635}
+      \range{pages}{12}
+    \endentry
+    \entry{moore2017super}{article}{}
+      \name{author}{1}{}{%
+        {{hash=679a2be46973b3c4b877f94b0adcdc03}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Samuel\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{679a2be46973b3c4b877f94b0adcdc03}
+      \strng{fullhash}{679a2be46973b3c4b877f94b0adcdc03}
+      \strng{bibnamehash}{679a2be46973b3c4b877f94b0adcdc03}
+      \strng{authorbibnamehash}{679a2be46973b3c4b877f94b0adcdc03}
+      \strng{authornamehash}{679a2be46973b3c4b877f94b0adcdc03}
+      \strng{authorfullhash}{679a2be46973b3c4b877f94b0adcdc03}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Spectrum}
+      \field{number}{11}
+      \field{title}{Super-accurate GPS coming to smartphones in 2018 [News]}
+      \field{volume}{54}
+      \field{year}{2017}
+      \field{pages}{10\bibrangedash 11}
+      \range{pages}{2}
+    \endentry
+    \entry{ostertagova2012modelling}{article}{}
+      \name{author}{1}{}{%
+        {{hash=73bc2f599244badd3ee6c5e8c9c7a246}{%
+           family={Ostertagová},
+           familyi={O\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{73bc2f599244badd3ee6c5e8c9c7a246}
+      \strng{fullhash}{73bc2f599244badd3ee6c5e8c9c7a246}
+      \strng{bibnamehash}{73bc2f599244badd3ee6c5e8c9c7a246}
+      \strng{authorbibnamehash}{73bc2f599244badd3ee6c5e8c9c7a246}
+      \strng{authornamehash}{73bc2f599244badd3ee6c5e8c9c7a246}
+      \strng{authorfullhash}{73bc2f599244badd3ee6c5e8c9c7a246}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Engineering}
+      \field{title}{Modelling using polynomial regression}
+      \field{volume}{48}
+      \field{year}{2012}
+      \field{pages}{500\bibrangedash 506}
+      \range{pages}{7}
+    \endentry
+    \entry{paul2009rssi}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0edbf22eea1804d6dfbfb535ba2a666b}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Anindya\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9ec325b9eaac64f2d134d7235d8dea55}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Eric\bibnamedelima A},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{49f4af6430ac738a3de4059a1e1bb64b}
+      \strng{fullhash}{49f4af6430ac738a3de4059a1e1bb64b}
+      \strng{bibnamehash}{49f4af6430ac738a3de4059a1e1bb64b}
+      \strng{authorbibnamehash}{49f4af6430ac738a3de4059a1e1bb64b}
+      \strng{authornamehash}{49f4af6430ac738a3de4059a1e1bb64b}
+      \strng{authorfullhash}{49f4af6430ac738a3de4059a1e1bb64b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal of selected topics in signal processing}
+      \field{number}{5}
+      \field{title}{RSSI-based indoor localization and tracking using sigma-point Kalman smoothers}
+      \field{volume}{3}
+      \field{year}{2009}
+      \field{pages}{860\bibrangedash 873}
+      \range{pages}{14}
+    \endentry
+    \entry{potorti2015evaluating}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=2689d5d6b685852d2ae488e8e58f4c47}{%
+           family={Potortı̀},
+           familyi={P\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=559e951c5392236b7a13087dcce4f213}{%
+           family={Barsocchi},
+           familyi={B\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b00753564bf4fd8db0dd9f6069fc4917}{%
+           family={Girolami},
+           familyi={G\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=12535d93233df24e630896b5e8971e43}{%
+           family={Torres-Sospedra},
+           familyi={T\bibinithyphendelim S\bibinitperiod},
+           given={Joaquı́n},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bf5eebd753b407dee109f0679fe470c1}{%
+           family={Montoliu},
+           familyi={M\bibinitperiod},
+           given={Raúl},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0a5a03cafa68d98705faa9a5d5f4057c}
+      \strng{fullhash}{0a5a03cafa68d98705faa9a5d5f4057c}
+      \strng{bibnamehash}{0a5a03cafa68d98705faa9a5d5f4057c}
+      \strng{authorbibnamehash}{0a5a03cafa68d98705faa9a5d5f4057c}
+      \strng{authornamehash}{0a5a03cafa68d98705faa9a5d5f4057c}
+      \strng{authorfullhash}{0a5a03cafa68d98705faa9a5d5f4057c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 International Conference on Indoor Positioning and Indoor Navigation (IPIN)}
+      \field{title}{Evaluating indoor localization solutions in large environments through competitive benchmarking: The EvAAL-ETRI competition}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{quinlan1986induction}{article}{}
+      \name{author}{1}{}{%
+        {{hash=93f17727abac1f79653e7f68831507d6}{%
+           family={Quinlan},
+           familyi={Q\bibinitperiod},
+           given={J.\bibnamedelimi Ross},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{93f17727abac1f79653e7f68831507d6}
+      \strng{fullhash}{93f17727abac1f79653e7f68831507d6}
+      \strng{bibnamehash}{93f17727abac1f79653e7f68831507d6}
+      \strng{authorbibnamehash}{93f17727abac1f79653e7f68831507d6}
+      \strng{authornamehash}{93f17727abac1f79653e7f68831507d6}
+      \strng{authorfullhash}{93f17727abac1f79653e7f68831507d6}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine learning}
+      \field{number}{1}
+      \field{title}{Induction of decision trees}
+      \field{volume}{1}
+      \field{year}{1986}
+      \field{pages}{81\bibrangedash 106}
+      \range{pages}{26}
+    \endentry
+    \entry{rokach2005decision}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=e583bae19511d6aca7ecc9e44953ed07}{%
+           family={Rokach},
+           familyi={R\bibinitperiod},
+           given={Lior},
+           giveni={L\bibinitperiod}}}%
+        {{hash=50aab0fb3aa0116ee1ff0407d4a356f6}{%
+           family={Maimon},
+           familyi={M\bibinitperiod},
+           given={Oded},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f6170b5e06b2596d4db88be8b0f580e7}
+      \strng{fullhash}{f6170b5e06b2596d4db88be8b0f580e7}
+      \strng{bibnamehash}{f6170b5e06b2596d4db88be8b0f580e7}
+      \strng{authorbibnamehash}{f6170b5e06b2596d4db88be8b0f580e7}
+      \strng{authornamehash}{f6170b5e06b2596d4db88be8b0f580e7}
+      \strng{authorfullhash}{f6170b5e06b2596d4db88be8b0f580e7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Data mining and knowledge discovery handbook}
+      \field{title}{Decision trees}
+      \field{year}{2005}
+      \field{pages}{165\bibrangedash 192}
+      \range{pages}{28}
+    \endentry
+    \entry{rosenlacher2020effect}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1e30440661eee3a6c3ab19695f1252b1}{%
+           family={Rosenlacher},
+           familyi={R\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod}}}%
+        {{hash=99b082df08950586ee3db0b21c2d0061}{%
+           family={Tichỳ},
+           familyi={T\bibinitperiod},
+           given={Jaromı́r},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b27efadab4309464345d76b90cbf3f1b}
+      \strng{fullhash}{b27efadab4309464345d76b90cbf3f1b}
+      \strng{bibnamehash}{b27efadab4309464345d76b90cbf3f1b}
+      \strng{authorbibnamehash}{b27efadab4309464345d76b90cbf3f1b}
+      \strng{authornamehash}{b27efadab4309464345d76b90cbf3f1b}
+      \strng{authorfullhash}{b27efadab4309464345d76b90cbf3f1b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{GRANT}
+      \field{title}{The effect of sensory marketing from the perspective of neuromarketing}
+      \field{year}{2020}
+      \field{pages}{77}
+      \range{pages}{1}
+    \endentry
+    \entry{sadowski2018rssi}{article}{}
+      \name{author}{2}{}{%
+        {{hash=15af2fb884dde4ed824fbb1e236312cb}{%
+           family={Sadowski},
+           familyi={S\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=97e9ca0d1c05edce9ca101f11a8bc969}{%
+           family={Spachos},
+           familyi={S\bibinitperiod},
+           given={Petros},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{df650b71c98373e75c18abb69eb747bf}
+      \strng{fullhash}{df650b71c98373e75c18abb69eb747bf}
+      \strng{bibnamehash}{df650b71c98373e75c18abb69eb747bf}
+      \strng{authorbibnamehash}{df650b71c98373e75c18abb69eb747bf}
+      \strng{authornamehash}{df650b71c98373e75c18abb69eb747bf}
+      \strng{authorfullhash}{df650b71c98373e75c18abb69eb747bf}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Rssi-based indoor localization with the internet of things}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{30149\bibrangedash 30161}
+      \range{pages}{13}
+    \endentry
+    \entry{segal2004machine}{article}{}
+      \name{author}{1}{}{%
+        {{hash=51d3816954c7e50ec0e5c66c3f973245}{%
+           family={Segal},
+           familyi={S\bibinitperiod},
+           given={Mark\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{51d3816954c7e50ec0e5c66c3f973245}
+      \strng{fullhash}{51d3816954c7e50ec0e5c66c3f973245}
+      \strng{bibnamehash}{51d3816954c7e50ec0e5c66c3f973245}
+      \strng{authorbibnamehash}{51d3816954c7e50ec0e5c66c3f973245}
+      \strng{authornamehash}{51d3816954c7e50ec0e5c66c3f973245}
+      \strng{authorfullhash}{51d3816954c7e50ec0e5c66c3f973245}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Machine learning benchmarks and random forest regression}
+      \field{year}{2004}
+    \endentry
+    \entry{siano2014demand}{article}{}
+      \name{author}{1}{}{%
+        {{hash=53a0fa98a7778e72f8be83d71692ca13}{%
+           family={Siano},
+           familyi={S\bibinitperiod},
+           given={Pierluigi},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{53a0fa98a7778e72f8be83d71692ca13}
+      \strng{fullhash}{53a0fa98a7778e72f8be83d71692ca13}
+      \strng{bibnamehash}{53a0fa98a7778e72f8be83d71692ca13}
+      \strng{authorbibnamehash}{53a0fa98a7778e72f8be83d71692ca13}
+      \strng{authornamehash}{53a0fa98a7778e72f8be83d71692ca13}
+      \strng{authorfullhash}{53a0fa98a7778e72f8be83d71692ca13}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and sustainable energy reviews}
+      \field{title}{Demand response and smart grids—A survey}
+      \field{volume}{30}
+      \field{year}{2014}
+      \field{pages}{461\bibrangedash 478}
+      \range{pages}{18}
+    \endentry
+    \entry{steinwart2008support}{book}{}
+      \name{author}{2}{}{%
+        {{hash=1f7c81e5506fdab760978a8fb50f27a6}{%
+           family={Steinwart},
+           familyi={S\bibinitperiod},
+           given={Ingo},
+           giveni={I\bibinitperiod}}}%
+        {{hash=c91468862b55209b860caf7280039ce1}{%
+           family={Christmann},
+           familyi={C\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{8dbb7f7e5317a30e083c3a9d87e20d0b}
+      \strng{fullhash}{8dbb7f7e5317a30e083c3a9d87e20d0b}
+      \strng{bibnamehash}{8dbb7f7e5317a30e083c3a9d87e20d0b}
+      \strng{authorbibnamehash}{8dbb7f7e5317a30e083c3a9d87e20d0b}
+      \strng{authornamehash}{8dbb7f7e5317a30e083c3a9d87e20d0b}
+      \strng{authorfullhash}{8dbb7f7e5317a30e083c3a9d87e20d0b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Support vector machines}
+      \field{year}{2008}
+    \endentry
+    \entry{sun2014wifi}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=2952785e297fae2fb1a3fbc5dce2d582}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yuxiang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=300c264a6e226ecdca51ccf8e495dc6b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod}}}%
+        {{hash=57b3af22dc461a821153fa08ea68e6f7}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Max\bibnamedelima Q-H},
+           giveni={M\bibinitperiod\bibinitdelim Q\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{846ee0d312146f31a7f94e6a0e48dbf9}
+      \strng{fullhash}{846ee0d312146f31a7f94e6a0e48dbf9}
+      \strng{bibnamehash}{846ee0d312146f31a7f94e6a0e48dbf9}
+      \strng{authorbibnamehash}{846ee0d312146f31a7f94e6a0e48dbf9}
+      \strng{authornamehash}{846ee0d312146f31a7f94e6a0e48dbf9}
+      \strng{authorfullhash}{846ee0d312146f31a7f94e6a0e48dbf9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 IEEE International Conference on Information and Automation (ICIA)}
+      \field{title}{WiFi signal strength-based robot indoor localization}
+      \field{year}{2014}
+      \field{pages}{250\bibrangedash 256}
+      \range{pages}{7}
+    \endentry
+    \entry{svetina2005increase}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d7ae36ca401e9945e311e68aa9c44c20}{%
+           family={Svetina},
+           familyi={S\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod}}}%
+        {{hash=07fc363e9f2c0b4d1b1e019e2255da2f}{%
+           family={Zupančič},
+           familyi={Z\bibinitperiod},
+           given={Jože},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a868a29219a4be31859d547664c160d}
+      \strng{fullhash}{0a868a29219a4be31859d547664c160d}
+      \strng{bibnamehash}{0a868a29219a4be31859d547664c160d}
+      \strng{authorbibnamehash}{0a868a29219a4be31859d547664c160d}
+      \strng{authornamehash}{0a868a29219a4be31859d547664c160d}
+      \strng{authorfullhash}{0a868a29219a4be31859d547664c160d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Systems Integration}
+      \field{title}{How to increase sales in retail with market basket analysis}
+      \field{year}{2005}
+      \field{pages}{418\bibrangedash 428}
+      \range{pages}{11}
+    \endentry
+    \entry{taleb2012machine}{article}{}
+      \name{author}{2}{}{%
+        {{hash=271fc550be26d3c561ad977a32462a65}{%
+           family={Taleb},
+           familyi={T\bibinitperiod},
+           given={Tarik},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d6b94e6edc7ec0180f205985997e1696}{%
+           family={Kunz},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{38c8e9cc8289a6f084dd8cfc3b0fbaee}
+      \strng{fullhash}{38c8e9cc8289a6f084dd8cfc3b0fbaee}
+      \strng{bibnamehash}{38c8e9cc8289a6f084dd8cfc3b0fbaee}
+      \strng{authorbibnamehash}{38c8e9cc8289a6f084dd8cfc3b0fbaee}
+      \strng{authornamehash}{38c8e9cc8289a6f084dd8cfc3b0fbaee}
+      \strng{authorfullhash}{38c8e9cc8289a6f084dd8cfc3b0fbaee}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Magazine}
+      \field{number}{3}
+      \field{title}{Machine type communications in 3GPP networks: potential, challenges, and solutions}
+      \field{volume}{50}
+      \field{year}{2012}
+      \field{pages}{178\bibrangedash 184}
+      \range{pages}{7}
+    \endentry
+    \entry{ujiindoor-data}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=daa94a68a0c306242f6c2aa1ac67fdd6}{%
+           family={Torres-Sospedra},
+           familyi={T\bibinithyphendelim S\bibinitperiod},
+           given={Joaquín},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cfd72e2fa2a0d0fc769b9013225faffa}{%
+           family={Montoliu},
+           familyi={M\bibinitperiod},
+           given={Raul},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8992fda21df7f22ecb98b37926b67e2c}{%
+           family={Martínez-Usó},
+           familyi={M\bibinithyphendelim U\bibinitperiod},
+           given={Adolfo},
+           giveni={A\bibinitperiod}}}%
+        {{hash=af98745e72bdea82bc165ca2996c2140}{%
+           family={Avariento},
+           familyi={A\bibinitperiod},
+           given={Joan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8651b6caae1821051b43202a395e9c28}{%
+           family={Arnau},
+           familyi={A\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=aac931c597b5b4ec07f388a4887850a1}{%
+           family={Benedito-Bordonau},
+           familyi={B\bibinithyphendelim B\bibinitperiod},
+           given={Mauri},
+           giveni={M\bibinitperiod}}}%
+        {{hash=944e8cd7d901724d587181bc77afefeb}{%
+           family={Huerta},
+           familyi={H\bibinitperiod},
+           given={Joaquín},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{32fa76b08bc0e11a4af8c513e3eb2edf}
+      \strng{fullhash}{32fa76b08bc0e11a4af8c513e3eb2edf}
+      \strng{bibnamehash}{32fa76b08bc0e11a4af8c513e3eb2edf}
+      \strng{authorbibnamehash}{32fa76b08bc0e11a4af8c513e3eb2edf}
+      \strng{authornamehash}{32fa76b08bc0e11a4af8c513e3eb2edf}
+      \strng{authorfullhash}{32fa76b08bc0e11a4af8c513e3eb2edf}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{UJIIndoorLoc: A new multi-building and multi-floor database for WLAN fingerprint-based indoor localization problems}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1109/IPIN.2014.7275492
+      \endverb
+    \endentry
+    \entry{torres2017realistic}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=12535d93233df24e630896b5e8971e43}{%
+           family={Torres-Sospedra},
+           familyi={T\bibinithyphendelim S\bibinitperiod},
+           given={Joaquı́n},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3d207fde3c957a1ce2850280324bcbd1}{%
+           family={Moreira},
+           familyi={M\bibinitperiod},
+           given={Adriano},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cd1c7839952e443c9f5ae70fe5f279fc}{%
+           family={Knauth},
+           familyi={K\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e4c38f427b24af233b8ef29148d1a95f}{%
+           family={Berkvens},
+           familyi={B\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cfd72e2fa2a0d0fc769b9013225faffa}{%
+           family={Montoliu},
+           familyi={M\bibinitperiod},
+           given={Raul},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5deb3c62881df834d3731671905369e5}{%
+           family={Belmonte},
+           familyi={B\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod}}}%
+        {{hash=54af46f81fc40e94ba90e7654db663c7}{%
+           family={Trilles},
+           familyi={T\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4ae90478152ad3f32489ccaef05fd89a}{%
+           family={Joao\bibnamedelima Nicolau},
+           familyi={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cd1d49a7b390abf3ab27f6c115b3aa90}{%
+           family={Meneses},
+           familyi={M\bibinitperiod},
+           given={Filipe},
+           giveni={F\bibinitperiod}}}%
+        {{hash=202b3b61316bfe704394aa7d5739d06c}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={António},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOS press}%
+      }
+      \strng{namehash}{bb4bdf52cf52ca1eb69856f7ff53e543}
+      \strng{fullhash}{bb4bdf52cf52ca1eb69856f7ff53e543}
+      \strng{bibnamehash}{bb4bdf52cf52ca1eb69856f7ff53e543}
+      \strng{authorbibnamehash}{bb4bdf52cf52ca1eb69856f7ff53e543}
+      \strng{authornamehash}{bb4bdf52cf52ca1eb69856f7ff53e543}
+      \strng{authorfullhash}{bb4bdf52cf52ca1eb69856f7ff53e543}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of ambient intelligence and smart environments}
+      \field{number}{2}
+      \field{title}{A realistic evaluation of indoor positioning systems based on Wi-Fi fingerprinting: The 2015 EvAAL--ETRI competition}
+      \field{volume}{9}
+      \field{year}{2017}
+      \field{pages}{263\bibrangedash 279}
+      \range{pages}{17}
+    \endentry
+    \entry{Exploratory-data-analysis}{book}{}
+      \name{author}{1}{}{%
+        {{hash=444903ebfc1a03fbab9cd193ee0cd3e0}{%
+           family={Tukey},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{444903ebfc1a03fbab9cd193ee0cd3e0}
+      \strng{fullhash}{444903ebfc1a03fbab9cd193ee0cd3e0}
+      \strng{bibnamehash}{444903ebfc1a03fbab9cd193ee0cd3e0}
+      \strng{authorbibnamehash}{444903ebfc1a03fbab9cd193ee0cd3e0}
+      \strng{authornamehash}{444903ebfc1a03fbab9cd193ee0cd3e0}
+      \strng{authorfullhash}{444903ebfc1a03fbab9cd193ee0cd3e0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Exploratory data analysis}
+      \field{year}{1977}
+    \endentry
+    \entry{ungureanu2017neuromarketing}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=674f5ec504e8e75a1a2ef557384ac109}{%
+           family={Ungureanu},
+           familyi={U\bibinitperiod},
+           given={Florina},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ae77d8eb7eca0b6d9b7a1d8eef108a8e}{%
+           family={Lupu},
+           familyi={L\bibinitperiod},
+           given={Robert\bibnamedelima Gabriel},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=6f5d166c4cf4e06aee393b789f0caeed}{%
+           family={Cadar},
+           familyi={C\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7b4f18299902e984ffc28225ee26a677}{%
+           family={Prodan},
+           familyi={P\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e00532199e5a8f7e84d15fb0f32837e0}
+      \strng{fullhash}{e00532199e5a8f7e84d15fb0f32837e0}
+      \strng{bibnamehash}{e00532199e5a8f7e84d15fb0f32837e0}
+      \strng{authorbibnamehash}{e00532199e5a8f7e84d15fb0f32837e0}
+      \strng{authornamehash}{e00532199e5a8f7e84d15fb0f32837e0}
+      \strng{authorfullhash}{e00532199e5a8f7e84d15fb0f32837e0}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 21st international conference on system theory, control and computing (ICSTCC)}
+      \field{title}{Neuromarketing and visual attention study using eye tracking techniques}
+      \field{year}{2017}
+      \field{pages}{553\bibrangedash 557}
+      \range{pages}{5}
+    \endentry
+    \entry{vasisht2016decimeter}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=92a4cce1af7aaefe9ff71004f8df4070}{%
+           family={Vasisht},
+           familyi={V\bibinitperiod},
+           given={Deepak},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4b0a8e85fc18a5852c5cea6c3a4a811e}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Swarun},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6e0ce061f94814a53a3c36cd68ac70ab}{%
+           family={Katabi},
+           familyi={K\bibinitperiod},
+           given={Dina},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc759afca106101784abb793988956c7}
+      \strng{fullhash}{fc759afca106101784abb793988956c7}
+      \strng{bibnamehash}{fc759afca106101784abb793988956c7}
+      \strng{authorbibnamehash}{fc759afca106101784abb793988956c7}
+      \strng{authornamehash}{fc759afca106101784abb793988956c7}
+      \strng{authorfullhash}{fc759afca106101784abb793988956c7}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{13th $\{$USENIX$\}$ Symposium on Networked Systems Design and Implementation ($\{$NSDI$\}$ 16)}
+      \field{title}{Decimeter-level localization with a single WiFi access point}
+      \field{year}{2016}
+      \field{pages}{165\bibrangedash 178}
+      \range{pages}{14}
+    \endentry
+    \entry{waskom2021seaborn}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0c809239417dcb9aef9b906eff53933d}{%
+           family={Waskom},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c809239417dcb9aef9b906eff53933d}
+      \strng{fullhash}{0c809239417dcb9aef9b906eff53933d}
+      \strng{bibnamehash}{0c809239417dcb9aef9b906eff53933d}
+      \strng{authorbibnamehash}{0c809239417dcb9aef9b906eff53933d}
+      \strng{authornamehash}{0c809239417dcb9aef9b906eff53933d}
+      \strng{authorfullhash}{0c809239417dcb9aef9b906eff53933d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Open Source Software}
+      \field{number}{60}
+      \field{title}{Seaborn: statistical data visualization}
+      \field{volume}{6}
+      \field{year}{2021}
+      \field{pages}{3021}
+      \range{pages}{1}
+    \endentry
+    \entry{wold1987principal}{article}{}
+      \name{author}{3}{}{%
+        {{hash=633e6dcc2c798200dfa73780715ac047}{%
+           family={Wold},
+           familyi={W\bibinitperiod},
+           given={Svante},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c87fb09717379ac55d127945ba39af6c}{%
+           family={Esbensen},
+           familyi={E\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+        {{hash=33beb61995bee952138fa81bb04ea4df}{%
+           family={Geladi},
+           familyi={G\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{53d1dd516fd9335ed516d0336280951c}
+      \strng{fullhash}{53d1dd516fd9335ed516d0336280951c}
+      \strng{bibnamehash}{53d1dd516fd9335ed516d0336280951c}
+      \strng{authorbibnamehash}{53d1dd516fd9335ed516d0336280951c}
+      \strng{authornamehash}{53d1dd516fd9335ed516d0336280951c}
+      \strng{authorfullhash}{53d1dd516fd9335ed516d0336280951c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemometrics and intelligent laboratory systems}
+      \field{number}{1-3}
+      \field{title}{Principal component analysis}
+      \field{volume}{2}
+      \field{year}{1987}
+      \field{pages}{37\bibrangedash 52}
+      \range{pages}{16}
+    \endentry
+    \entry{woo2011application}{article}{}
+      \name{author}{7}{}{%
+        {{hash=8d00f9941a34bcdecb2a331c39522438}{%
+           family={Woo},
+           familyi={W\bibinitperiod},
+           given={Sunkyu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c0b8bde01673753f9049e2ef08b19065}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Seongsu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=346220cac1f544c47cdf0094ad96ea63}{%
+           family={Mok},
+           familyi={M\bibinitperiod},
+           given={Esmond},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b4beebe7f2e2d81bd300015ced6e7a26}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Linyuan},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d2caf1213bfdc9927255e57be948d0a9}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Changsu},
+           giveni={C\bibinitperiod}}}%
+        {{hash=854b1df0a4e61eadb995fe1aeafaeff0}{%
+           family={Pyeon},
+           familyi={P\bibinitperiod},
+           given={Muwook},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1798ce58a07d6640ebcfb12ac6ec18b5}{%
+           family={Heo},
+           familyi={H\bibinitperiod},
+           given={Joon},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4d8eff0f3c460de970e021faf6084ec3}
+      \strng{fullhash}{4d8eff0f3c460de970e021faf6084ec3}
+      \strng{bibnamehash}{4d8eff0f3c460de970e021faf6084ec3}
+      \strng{authorbibnamehash}{4d8eff0f3c460de970e021faf6084ec3}
+      \strng{authornamehash}{4d8eff0f3c460de970e021faf6084ec3}
+      \strng{authorfullhash}{4d8eff0f3c460de970e021faf6084ec3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automation in Construction}
+      \field{number}{1}
+      \field{title}{Application of WiFi-based indoor positioning system for labor tracking at construction sites: A case study in Guangzhou MTR}
+      \field{volume}{20}
+      \field{year}{2011}
+      \field{pages}{3\bibrangedash 13}
+      \range{pages}{11}
+    \endentry
+    \entry{wyffels2014distributed}{article}{}
+      \name{author}{6}{}{%
+        {{hash=d630b516c10494ca2636dfbf6836a239}{%
+           family={Wyffels},
+           familyi={W\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=818f5879e073d5276abd7186a91cc935}{%
+           family={De\bibnamedelima Brabanter},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Jos},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b6d9ec784ec861e81c866531f6581e78}{%
+           family={Crombez},
+           familyi={C\bibinitperiod},
+           given={Pieter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ae60d857fb7c6613ac1d8a5b05218376}{%
+           family={Verhoeve},
+           familyi={V\bibinitperiod},
+           given={Piet},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e0d7bb5d9c8e90dc118b3184fe6d1c37}{%
+           family={Nauwelaers},
+           familyi={N\bibinitperiod},
+           given={Bart},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f52a0574bad119e4c7f2646d977788a8}{%
+           family={De\bibnamedelima Strycker},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Lieven},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0932dfceb3527fc12bdb4f674d781188}
+      \strng{fullhash}{0932dfceb3527fc12bdb4f674d781188}
+      \strng{bibnamehash}{0932dfceb3527fc12bdb4f674d781188}
+      \strng{authorbibnamehash}{0932dfceb3527fc12bdb4f674d781188}
+      \strng{authornamehash}{0932dfceb3527fc12bdb4f674d781188}
+      \strng{authorfullhash}{0932dfceb3527fc12bdb4f674d781188}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE journal of biomedical and health informatics}
+      \field{number}{6}
+      \field{title}{Distributed, signal strength-based indoor localization algorithm for use in healthcare environments}
+      \field{volume}{18}
+      \field{year}{2014}
+      \field{pages}{1887\bibrangedash 1893}
+      \range{pages}{7}
+    \endentry
+    \entry{xiao2013pilot}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=8d2bc5085aa579afde3ecdf4ea9d2593}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4926a245e59dd9bbc690ce1d37efbecf}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Kaishun},
+           giveni={K\bibinitperiod}}}%
+        {{hash=73548d9a33699014028f2c9b8fdde0a4}{%
+           family={Yi},
+           familyi={Y\bibinitperiod},
+           given={Youwen},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=55f210233ac686af68eba11a97bd84e2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0b14f51e2a1590634a55f649f595a0d5}{%
+           family={Ni},
+           familyi={N\bibinitperiod},
+           given={Lionel\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7f5872698d8c6a661701315491e22730}
+      \strng{fullhash}{7f5872698d8c6a661701315491e22730}
+      \strng{bibnamehash}{7f5872698d8c6a661701315491e22730}
+      \strng{authorbibnamehash}{7f5872698d8c6a661701315491e22730}
+      \strng{authornamehash}{7f5872698d8c6a661701315491e22730}
+      \strng{authorfullhash}{7f5872698d8c6a661701315491e22730}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2013 IEEE 33rd International Conference on Distributed Computing Systems}
+      \field{title}{Pilot: Passive device-free indoor localization using channel state information}
+      \field{year}{2013}
+      \field{pages}{236\bibrangedash 245}
+      \range{pages}{10}
+    \endentry
+    \entry{xiong2013arraytrack}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=0c3037a3cdb6324da5409062dc1155cd}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5ec33f8aa5ac44b8c8019d0cb8e3e2ba}{%
+           family={Jamieson},
+           familyi={J\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{f032e016c0ea2fe77f6b53ae3bda16b9}
+      \strng{fullhash}{f032e016c0ea2fe77f6b53ae3bda16b9}
+      \strng{bibnamehash}{f032e016c0ea2fe77f6b53ae3bda16b9}
+      \strng{authorbibnamehash}{f032e016c0ea2fe77f6b53ae3bda16b9}
+      \strng{authornamehash}{f032e016c0ea2fe77f6b53ae3bda16b9}
+      \strng{authorfullhash}{f032e016c0ea2fe77f6b53ae3bda16b9}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{10th $\{$USENIX$\}$ Symposium on Networked Systems Design and Implementation ($\{$NSDI$\}$ 13)}
+      \field{title}{Arraytrack: A fine-grained indoor location system}
+      \field{year}{2013}
+      \field{pages}{71\bibrangedash 84}
+      \range{pages}{14}
+    \endentry
+    \entry{yadava2017analysis}{article}{}
+      \name{author}{5}{}{%
+        {{hash=cec7d5f2706b79a454ca875c85dc5bc2}{%
+           family={Yadava},
+           familyi={Y\bibinitperiod},
+           given={Mahendra},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4392c24056e374c67f95c980012b0523}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Pradeep},
+           giveni={P\bibinitperiod}}}%
+        {{hash=59167fd05298d04d3138a371d7fde359}{%
+           family={Saini},
+           familyi={S\bibinitperiod},
+           given={Rajkumar},
+           giveni={R\bibinitperiod}}}%
+        {{hash=50b08b39eb33aeea18b7ca1d5528c508}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Partha\bibnamedelima Pratim},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=16e1434adbb32d04bc2b19e19358c674}{%
+           family={Dogra},
+           familyi={D\bibinitperiod},
+           given={Debi\bibnamedelima Prosad},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5508a871a7f544ca7e8bc1520448f343}
+      \strng{fullhash}{5508a871a7f544ca7e8bc1520448f343}
+      \strng{bibnamehash}{5508a871a7f544ca7e8bc1520448f343}
+      \strng{authorbibnamehash}{5508a871a7f544ca7e8bc1520448f343}
+      \strng{authornamehash}{5508a871a7f544ca7e8bc1520448f343}
+      \strng{authorfullhash}{5508a871a7f544ca7e8bc1520448f343}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Multimedia Tools and Applications}
+      \field{number}{18}
+      \field{title}{Analysis of EEG signals and its application to neuromarketing}
+      \field{volume}{76}
+      \field{year}{2017}
+      \field{pages}{19087\bibrangedash 19111}
+      \range{pages}{25}
+    \endentry
+    \entry{yang2013rssi}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3bdf155c3aaba1a55921ba1c97ab13a7}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=e329423c2825f6169f752c44c2b9075c}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zimu},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=33f3892f364ace97b23d47eb1f1eebc0}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yunhao},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{b00a00bec3d82252040122cde4cb9f2b}
+      \strng{fullhash}{b00a00bec3d82252040122cde4cb9f2b}
+      \strng{bibnamehash}{b00a00bec3d82252040122cde4cb9f2b}
+      \strng{authorbibnamehash}{b00a00bec3d82252040122cde4cb9f2b}
+      \strng{authornamehash}{b00a00bec3d82252040122cde4cb9f2b}
+      \strng{authorfullhash}{b00a00bec3d82252040122cde4cb9f2b}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys (CSUR)}
+      \field{number}{2}
+      \field{title}{From RSSI to CSI: Indoor localization via channel response}
+      \field{volume}{46}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 32}
+      \range{pages}{32}
+    \endentry
+    \entry{yean2020feature}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=ece239dd833ade5198508ab7799e0035}{%
+           family={Yean},
+           familyi={Y\bibinitperiod},
+           given={Senglidet},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a149b4691d0b2d8d5388685c8c8f691d}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Bu-Sung},
+           giveni={B\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=963ea3df4c8ca8e477b5c90d4d3da971}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={Hong\bibnamedelima Lye},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{50623e192bc181bdd3676421a9972145}
+      \strng{fullhash}{50623e192bc181bdd3676421a9972145}
+      \strng{bibnamehash}{50623e192bc181bdd3676421a9972145}
+      \strng{authorbibnamehash}{50623e192bc181bdd3676421a9972145}
+      \strng{authornamehash}{50623e192bc181bdd3676421a9972145}
+      \strng{authorfullhash}{50623e192bc181bdd3676421a9972145}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 International Conference on Intelligent Data Science Technologies and Applications (IDSTA)}
+      \field{title}{Feature Engineering for Grid-based Multi-Floor Indoor Localisation using Machine Learning}
+      \field{year}{2020}
+      \field{pages}{142\bibrangedash 148}
+      \range{pages}{7}
+    \endentry
+    \entry{youssef2005horus}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=bd638c4533c9cab1a88177eda2d2bf6e}{%
+           family={Youssef},
+           familyi={Y\bibinitperiod},
+           given={Moustafa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9f7245460575e7e02a9bb435c3999d47}{%
+           family={Agrawala},
+           familyi={A\bibinitperiod},
+           given={Ashok},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c75b38039fbdc6eef6a38179dbeb4f17}
+      \strng{fullhash}{c75b38039fbdc6eef6a38179dbeb4f17}
+      \strng{bibnamehash}{c75b38039fbdc6eef6a38179dbeb4f17}
+      \strng{authorbibnamehash}{c75b38039fbdc6eef6a38179dbeb4f17}
+      \strng{authornamehash}{c75b38039fbdc6eef6a38179dbeb4f17}
+      \strng{authorfullhash}{c75b38039fbdc6eef6a38179dbeb4f17}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 3rd international conference on Mobile systems, applications, and services}
+      \field{title}{The Horus WLAN location determination system}
+      \field{year}{2005}
+      \field{pages}{205\bibrangedash 218}
+      \range{pages}{14}
+    \endentry
+    \entry{zafari2019survey}{article}{}
+      \name{author}{3}{}{%
+        {{hash=195ca55bbed6416d65e59307e5283295}{%
+           family={Zafari},
+           familyi={Z\bibinitperiod},
+           given={Faheem},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b41f5b89eddcb048fce2d97d566294ce}{%
+           family={Gkelias},
+           familyi={G\bibinitperiod},
+           given={Athanasios},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5aa48ddf606faa8081c96eaf1efcfebb}{%
+           family={Leung},
+           familyi={L\bibinitperiod},
+           given={Kin\bibnamedelima K},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e9b36037f0adc41d54b0b2ff32a1a99a}
+      \strng{fullhash}{e9b36037f0adc41d54b0b2ff32a1a99a}
+      \strng{bibnamehash}{e9b36037f0adc41d54b0b2ff32a1a99a}
+      \strng{authorbibnamehash}{e9b36037f0adc41d54b0b2ff32a1a99a}
+      \strng{authornamehash}{e9b36037f0adc41d54b0b2ff32a1a99a}
+      \strng{authorfullhash}{e9b36037f0adc41d54b0b2ff32a1a99a}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Surveys \& Tutorials}
+      \field{number}{3}
+      \field{title}{A survey of indoor localization systems and technologies}
+      \field{volume}{21}
+      \field{year}{2019}
+      \field{pages}{2568\bibrangedash 2599}
+      \range{pages}{32}
+    \endentry
+    \entry{zafari2015microlocation}{article}{}
+      \name{author}{3}{}{%
+        {{hash=195ca55bbed6416d65e59307e5283295}{%
+           family={Zafari},
+           familyi={Z\bibinitperiod},
+           given={Faheem},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1f025fa4c52665aaaa848ed187830282}{%
+           family={Papapanagiotou},
+           familyi={P\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod}}}%
+        {{hash=aad61dbc6c1f77867a97b4a9fd043466}{%
+           family={Christidis},
+           familyi={C\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{99c1e9c275700136a24fbb377565552b}
+      \strng{fullhash}{99c1e9c275700136a24fbb377565552b}
+      \strng{bibnamehash}{99c1e9c275700136a24fbb377565552b}
+      \strng{authorbibnamehash}{99c1e9c275700136a24fbb377565552b}
+      \strng{authornamehash}{99c1e9c275700136a24fbb377565552b}
+      \strng{authorfullhash}{99c1e9c275700136a24fbb377565552b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Internet of Things Journal}
+      \field{number}{1}
+      \field{title}{Microlocation for internet-of-things-equipped smart buildings}
+      \field{volume}{3}
+      \field{year}{2015}
+      \field{pages}{96\bibrangedash 112}
+      \range{pages}{17}
+    \endentry
+    \entry{zelenkauskaite2012interconnectedness}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=59731e93f9941a3f5293e38574a8e5ff}{%
+           family={Zelenkauskaite},
+           familyi={Z\bibinitperiod},
+           given={Asta},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c11b06912e8a091efbd1fca6683100c6}{%
+           family={Bessis},
+           familyi={B\bibinitperiod},
+           given={Nik},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d0301ca0b478759242a75d9ae44c44f7}{%
+           family={Sotiriadis},
+           familyi={S\bibinitperiod},
+           given={Stelios},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e99aadd74d48c3134e0ba1c2716da36a}{%
+           family={Asimakopoulou},
+           familyi={A\bibinitperiod},
+           given={Eleana},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{4c3782aae0dfce813e49e39a30d3e5f7}
+      \strng{fullhash}{4c3782aae0dfce813e49e39a30d3e5f7}
+      \strng{bibnamehash}{4c3782aae0dfce813e49e39a30d3e5f7}
+      \strng{authorbibnamehash}{4c3782aae0dfce813e49e39a30d3e5f7}
+      \strng{authornamehash}{4c3782aae0dfce813e49e39a30d3e5f7}
+      \strng{authorfullhash}{4c3782aae0dfce813e49e39a30d3e5f7}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 Fourth International Conference on Intelligent Networking and Collaborative Systems}
+      \field{title}{Interconnectedness of complex systems of internet of things through social network analysis for disaster management}
+      \field{year}{2012}
+      \field{pages}{503\bibrangedash 508}
+      \range{pages}{6}
+    \endentry
+    \entry{zhang2008sparsity}{article}{}
+      \name{author}{2}{}{%
+        {{hash=87216fbf7f1a495422bf2597d030b10a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Cun-Hui},
+           giveni={C\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=c5da7e2c23259cf30044a347312dd769}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Institute of Mathematical Statistics}%
+      }
+      \strng{namehash}{1ea582110abeeda813aaa334e92cf198}
+      \strng{fullhash}{1ea582110abeeda813aaa334e92cf198}
+      \strng{bibnamehash}{1ea582110abeeda813aaa334e92cf198}
+      \strng{authorbibnamehash}{1ea582110abeeda813aaa334e92cf198}
+      \strng{authornamehash}{1ea582110abeeda813aaa334e92cf198}
+      \strng{authorfullhash}{1ea582110abeeda813aaa334e92cf198}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Annals of Statistics}
+      \field{number}{4}
+      \field{title}{The sparsity and bias of the lasso selection in high-dimensional linear regression}
+      \field{volume}{36}
+      \field{year}{2008}
+      \field{pages}{1567\bibrangedash 1594}
+      \range{pages}{28}
+    \endentry
+    \entry{zhang2016introduction}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2063c983a464ccacb561a99c48899267}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhongheng},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AME Publications}%
+      }
+      \strng{namehash}{2063c983a464ccacb561a99c48899267}
+      \strng{fullhash}{2063c983a464ccacb561a99c48899267}
+      \strng{bibnamehash}{2063c983a464ccacb561a99c48899267}
+      \strng{authorbibnamehash}{2063c983a464ccacb561a99c48899267}
+      \strng{authornamehash}{2063c983a464ccacb561a99c48899267}
+      \strng{authorfullhash}{2063c983a464ccacb561a99c48899267}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of translational medicine}
+      \field{number}{11}
+      \field{title}{Introduction to machine learning: k-nearest neighbors}
+      \field{volume}{4}
+      \field{year}{2016}
+    \endentry
+    \entry{zou2014online}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=b6770a40a9ff8665ab0cd2e6541f3240}{%
+           family={Zou},
+           familyi={Z\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1e6f26f32c3e6d7ca8348e5ee752a8e6}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fc5c00e971f89ff3d36137427f46359f}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Xiaoxuan},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6612a22036aa1ecba88a6f903e89a602}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Lihua},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c1855e930db819895ba246b61170b8a9}
+      \strng{fullhash}{c1855e930db819895ba246b61170b8a9}
+      \strng{bibnamehash}{c1855e930db819895ba246b61170b8a9}
+      \strng{authorbibnamehash}{c1855e930db819895ba246b61170b8a9}
+      \strng{authornamehash}{c1855e930db819895ba246b61170b8a9}
+      \strng{authorfullhash}{c1855e930db819895ba246b61170b8a9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 IEEE World Forum on Internet of Things (WF-IoT)}
+      \field{title}{An online sequential extreme learning machine approach to WiFi based indoor positioning}
+      \field{year}{2014}
+      \field{pages}{111\bibrangedash 116}
+      \range{pages}{6}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

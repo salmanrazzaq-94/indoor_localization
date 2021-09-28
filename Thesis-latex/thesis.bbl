@@ -947,6 +947,35 @@
       \field{pages}{352\bibrangedash 359}
       \range{pages}{8}
     \endentry
+    \entry{eidleman1995z}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b08f5856211e9b1a5acff7de98ae3871}{%
+           family={Eidleman},
+           familyi={E\bibinitperiod},
+           given={Gregory\bibnamedelima J},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New York State Society of Certified Public Accountants}%
+      }
+      \strng{namehash}{b08f5856211e9b1a5acff7de98ae3871}
+      \strng{fullhash}{b08f5856211e9b1a5acff7de98ae3871}
+      \strng{bibnamehash}{b08f5856211e9b1a5acff7de98ae3871}
+      \strng{authorbibnamehash}{b08f5856211e9b1a5acff7de98ae3871}
+      \strng{authornamehash}{b08f5856211e9b1a5acff7de98ae3871}
+      \strng{authorfullhash}{b08f5856211e9b1a5acff7de98ae3871}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The CPA Journal}
+      \field{number}{2}
+      \field{title}{Z scores-A Guide to failure prediction}
+      \field{volume}{65}
+      \field{year}{1995}
+      \field{pages}{52}
+      \range{pages}{1}
+    \endentry
     \entry{feng2011received}{article}{}
       \name{author}{4}{}{%
         {{hash=ed98c7196710b55ff2bee69f5a5c45fc}{%
@@ -2561,6 +2590,50 @@
       \field{pages}{10\bibrangedash 11}
       \range{pages}{2}
     \endentry
+    \entry{mulloni2009indoor}{article}{}
+      \name{author}{4}{}{%
+        {{hash=69f7eb15b01bb2eaf5b1fd5f31d9a0c3}{%
+           family={Mulloni},
+           familyi={M\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d7951d6cfd9bc35f93a52957063e67eb}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=32cc1939b25e943071b1376d768b497f}{%
+           family={Barakonyi},
+           familyi={B\bibinitperiod},
+           given={Istvan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b31d42dd4ba4466eb4b996d6e714dc68}{%
+           family={Schmalstieg},
+           familyi={S\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6b65256f287a1effe9fc175221aa6113}
+      \strng{fullhash}{6b65256f287a1effe9fc175221aa6113}
+      \strng{bibnamehash}{6b65256f287a1effe9fc175221aa6113}
+      \strng{authorbibnamehash}{6b65256f287a1effe9fc175221aa6113}
+      \strng{authornamehash}{6b65256f287a1effe9fc175221aa6113}
+      \strng{authorfullhash}{6b65256f287a1effe9fc175221aa6113}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Pervasive Computing}
+      \field{number}{2}
+      \field{title}{Indoor positioning and navigation with camera phones}
+      \field{volume}{8}
+      \field{year}{2009}
+      \field{pages}{22\bibrangedash 31}
+      \range{pages}{10}
+    \endentry
     \entry{ostertagova2012modelling}{article}{}
       \name{author}{1}{}{%
         {{hash=73bc2f599244badd3ee6c5e8c9c7a246}{%
@@ -2841,6 +2914,35 @@
       \field{year}{2014}
       \field{pages}{461\bibrangedash 478}
       \range{pages}{18}
+    \endentry
+    \entry{1222043}{article}{}
+      \name{author}{1}{}{%
+        {{hash=31c53e4527dff89c140b5aa899e0d519}{%
+           family={Snoonian},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{31c53e4527dff89c140b5aa899e0d519}
+      \strng{fullhash}{31c53e4527dff89c140b5aa899e0d519}
+      \strng{bibnamehash}{31c53e4527dff89c140b5aa899e0d519}
+      \strng{authorbibnamehash}{31c53e4527dff89c140b5aa899e0d519}
+      \strng{authornamehash}{31c53e4527dff89c140b5aa899e0d519}
+      \strng{authorfullhash}{31c53e4527dff89c140b5aa899e0d519}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Spectrum}
+      \field{number}{8}
+      \field{title}{Smart buildings}
+      \field{volume}{40}
+      \field{year}{2003}
+      \field{pages}{18\bibrangedash 23}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/MSPEC.2003.1222043
+      \endverb
     \endentry
     \entry{steinwart2008support}{book}{}
       \name{author}{2}{}{%

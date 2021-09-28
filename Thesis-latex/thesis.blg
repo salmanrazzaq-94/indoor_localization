@@ -1,19 +1,19 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'thesis.blg'
-[141] biber-MSWIN64:340> INFO - === 
-[187] Biber.pm:415> INFO - Reading 'thesis.bcf'
-[347] Biber.pm:952> INFO - Found 100 citekeys in bib section 0
-[366] Biber.pm:4340> INFO - Processing section 0
-[382] Biber.pm:4531> INFO - Looking for bibtex format file 'biblio.bib' for section 0
-[497] bibtex.pm:1689> INFO - LaTeX decoding ...
-[664] bibtex.pm:1494> INFO - Found BibTeX data source 'biblio.bib'
-[998] Utils.pm:395> WARN - Entry 'apple-ibeacon' (biblio.bib): Invalid format '\today' of date field 'urldate' - ignoring
-[1085] Utils.pm:395> WARN - Entry 'android-wifi-manager' (biblio.bib): Invalid format '\today' of date field 'urldate' - ignoring
-[1086] Utils.pm:395> WARN - Entry 'android-wifi-getscan-method' (biblio.bib): Invalid format '\today' of date field 'urldate' - ignoring
-[1465] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1465] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1465] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[1465] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[1602] bbl.pm:654> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[1673] bbl.pm:757> INFO - Output to thesis.bbl
-[1673] Biber.pm:128> INFO - WARNINGS: 3
+[153] biber-MSWIN64:340> INFO - === 
+[204] Biber.pm:415> INFO - Reading 'thesis.bcf'
+[380] Biber.pm:952> INFO - Found 103 citekeys in bib section 0
+[400] Biber.pm:4340> INFO - Processing section 0
+[416] Biber.pm:4531> INFO - Looking for bibtex format file 'biblio.bib' for section 0
+[514] bibtex.pm:1689> INFO - LaTeX decoding ...
+[683] bibtex.pm:1494> INFO - Found BibTeX data source 'biblio.bib'
+[1034] Utils.pm:395> WARN - Entry 'apple-ibeacon' (biblio.bib): Invalid format '\today' of date field 'urldate' - ignoring
+[1127] Utils.pm:395> WARN - Entry 'android-wifi-manager' (biblio.bib): Invalid format '\today' of date field 'urldate' - ignoring
+[1128] Utils.pm:395> WARN - Entry 'android-wifi-getscan-method' (biblio.bib): Invalid format '\today' of date field 'urldate' - ignoring
+[1629] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1629] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1630] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1630] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1794] bbl.pm:654> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[1878] bbl.pm:757> INFO - Output to thesis.bbl
+[1879] Biber.pm:128> INFO - WARNINGS: 3
